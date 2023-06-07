@@ -5,7 +5,7 @@
 </p><br>
 
 <figure>
-  <img src="/files/fig_abstract.png" alt="example" width="75%" class="center"/>
+  <img src="/files/fig_abstract.png" alt="example" width="55%" class="center"/>
   <figcaption><b>Fig. 1</b> - Representation of changes in the spatio-temporal facets of human mobility during the COVID-19 pandemic in the UK.</figcaption>
 </figure> <br><br><br>
 
