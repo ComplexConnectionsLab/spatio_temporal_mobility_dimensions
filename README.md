@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/649713054.svg)](https://zenodo.org/badge/latestdoi/649713054)
+
+
 # COVID-19 is linked to changes in the time-space dimension of human mobility
 
 
