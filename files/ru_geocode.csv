@@ -1,0 +1,327 @@
+geo_code,LAD11NM,RUC11CD,RUC11,Rural population1,Hub towns (rural related) population1,Rural including hub towns (rural & rural related) population1, Total population1,Rural including hub towns (rural & rural related) population1 
+E06000001,Hartlepool,4,Urban with City and Town,3173.00,0.00,3173.00,92028.00,3.4
+E06000002,Middlesbrough,4,Urban with City and Town,957.00,0.00,957.00,138412.00,0.7
+E06000003,Redcar and Cleveland,3,Urban with Significant Rural (rural including hub towns 26-49%),43880.00,0.00,43880.00,135177.00,32.5
+E06000004,Stockton-on-Tees,4,Urban with City and Town,7536.00,0.00,7536.00,191610.00,3.9
+E06000005,Darlington,4,Urban with City and Town,13201.00,0.00,13201.00,105564.00,12.5
+E06000006,Halton,4,Urban with City and Town,3148.00,0.00,3148.00,125746.00,2.5
+E06000007,Warrington,4,Urban with City and Town,25164.00,0.00,25164.00,202228.00,12.4
+E06000008,Blackburn with Darwen,4,Urban with City and Town,6931.00,0.00,6931.00,147489.00,4.7
+E06000009,Blackpool,4,Urban with City and Town,555.00,0.00,555.00,142065.00,0.4
+E06000010,"Kingston upon Hull, City of",4,Urban with City and Town,0.00,0.00,0.00,256406.00,0
+E06000011,East Riding of Yorkshire,2,Largely Rural (rural including hub towns 50-79%) ,146674.00,53794.00,200468.00,334179.00,60
+E06000012,North East Lincolnshire,4,Urban with City and Town,15814.00,9642.00,25456.00,159616.00,15.9
+E06000013,North Lincolnshire,3,Urban with Significant Rural (rural including hub towns 26-49%),75295.00,1108.00,76403.00,167446.00,45.6
+E06000014,York,4,Urban with City and Town,32440.00,0.00,32440.00,198051.00,16.4
+E06000015,Derby,4,Urban with City and Town,0.00,0.00,0.00,248752.00,0
+E06000016,Leicester,4,Urban with City and Town,556.00,0.00,556.00,329839.00,0.2
+E06000017,Rutland,1,Mainly Rural (rural including hub towns >=80%) ,25847.00,11522.00,37369.00,37369.00,100
+E06000018,Nottingham,5,Urban with Minor Conurbation,0.00,0.00,0.00,305680.00,0
+E06000019,"Herefordshire, County of",2,Largely Rural (rural including hub towns 50-79%) ,99142.00,21520.00,120662.00,183477.00,65.8
+E06000020,Telford and Wrekin,4,Urban with City and Town,11177.00,12741.00,23918.00,166641.00,14.4
+E06000021,Stoke-on-Trent,4,Urban with City and Town,671.00,0.00,671.00,249008.00,0.3
+E06000022,Bath and North East Somerset,3,Urban with Significant Rural (rural including hub towns 26-49%),37103.00,27136.00,64239.00,176016.00,36.5
+E06000023,"Bristol, City of",4,Urban with City and Town,0.00,0.00,0.00,428234.00,0
+E06000024,North Somerset,3,Urban with Significant Rural (rural including hub towns 26-49%),37238.00,41545.00,78783.00,202566.00,38.9
+E06000025,South Gloucestershire,4,Urban with City and Town,34363.00,11687.00,46050.00,262767.00,17.5
+E06000026,Plymouth,4,Urban with City and Town,0.00,0.00,0.00,256384.00,0
+E06000027,Torbay,4,Urban with City and Town,762.00,16693.00,17455.00,130959.00,13.3
+E06000028,Bournemouth,4,Urban with City and Town,139.00,0.00,139.00,183491.00,0.1
+E06000029,Poole,4,Urban with City and Town,236.00,0.00,236.00,147645.00,0.2
+E06000030,Swindon,4,Urban with City and Town,23848.00,0.00,23848.00,209156.00,11.4
+E06000031,Peterborough,4,Urban with City and Town,21752.00,806.00,22558.00,183631.00,12.3
+E06000032,Luton,4,Urban with City and Town,0.00,0.00,0.00,203201.00,0
+E06000033,Southend-on-Sea,4,Urban with City and Town,0.00,0.00,0.00,173658.00,0
+E06000034,Thurrock,6,Urban with Major Conurbation,19765.00,0.00,19765.00,157705.00,12.5
+E06000035,Medway,4,Urban with City and Town,28457.00,0.00,28457.00,263925.00,10.8
+E06000036,Bracknell Forest,4,Urban with City and Town,2309.00,0.00,2309.00,113205.00,2
+E06000037,West Berkshire,3,Urban with Significant Rural (rural including hub towns 26-49%),56949.00,403.00,57352.00,153822.00,37.3
+E06000038,Reading,4,Urban with City and Town,468.00,0.00,468.00,155698.00,0.3
+E06000039,Slough,4,Urban with City and Town,0.00,0.00,0.00,140205.00,0
+E06000040,Windsor and Maidenhead,4,Urban with City and Town,14961.00,182.00,15143.00,144560.00,10.5
+E06000041,Wokingham,4,Urban with City and Town,27045.00,0.00,27045.00,154380.00,17.5
+E06000042,Milton Keynes,4,Urban with City and Town,21653.00,0.00,21653.00,248821.00,8.7
+E06000043,Brighton and Hove,4,Urban with City and Town,4318.00,0.00,4318.00,273369.00,1.6
+E06000044,Portsmouth,4,Urban with City and Town,0.00,0.00,0.00,205056.00,0
+E06000045,Southampton,4,Urban with City and Town,0.00,0.00,0.00,236882.00,0
+E06000046,Isle of Wight,1,Mainly Rural (rural including hub towns >=80%) ,44699.00,93566.00,138265.00,138265.00,100
+E06000047,County Durham,2,Largely Rural (rural including hub towns 50-79%) ,231417.00,81151.00,312568.00,513242.00,60.9
+E06000048,Northumberland,2,Largely Rural (rural including hub towns 50-79%) ,145096.00,78801.00,223897.00,316028.00,70.8
+E06000049,Cheshire East,3,Urban with Significant Rural (rural including hub towns 26-49%),70607.00,74571.00,145178.00,370127.00,39.2
+E06000050,Cheshire West and Chester,3,Urban with Significant Rural (rural including hub towns 26-49%),86301.00,0.00,86301.00,329608.00,26.2
+E06000051,Shropshire,2,Largely Rural (rural including hub towns 50-79%) ,175469.00,53688.00,229157.00,306129.00,74.9
+E41000052,Cornwall,1,Mainly Rural (rural including hub towns >=80%) ,326682.00,115347.00,442029.00,532273.00,83
+E41000052,Isles of Scilly,1,Mainly Rural (rural including hub towns >=80%) ,2203.00,0.00,2203.00,2203.00,100
+E06000054,Wiltshire,2,Largely Rural (rural including hub towns 50-79%) ,223719.00,93566.00,317285.00,470981.00,67.4
+E06000055,Bedford,3,Urban with Significant Rural (rural including hub towns 26-49%),49104.00,0.00,49104.00,157479.00,31.2
+E06000056,Central Bedfordshire,2,Largely Rural (rural including hub towns 50-79%) ,100272.00,48234.00,148506.00,254381.00,58.4
+E07000004,Aylesbury Vale,2,Largely Rural (rural including hub towns 50-79%) ,86499.00,12890.00,99389.00,174137.00,57.1
+E07000005,Chiltern,3,Urban with Significant Rural (rural including hub towns 26-49%),26030.00,0.00,26030.00,92635.00,28.1
+E07000006,South Bucks,3,Urban with Significant Rural (rural including hub towns 26-49%),21212.00,0.00,21212.00,66867.00,31.7
+E07000007,Wycombe,3,Urban with Significant Rural (rural including hub towns 26-49%),31999.00,18079.00,50078.00,171644.00,29.2
+E07000008,Cambridge,4,Urban with City and Town,359.00,0.00,359.00,123867.00,0.3
+E07000009,East Cambridgeshire,1,Mainly Rural (rural including hub towns >=80%) ,62586.00,21232.00,83818.00,83818.00,100
+E07000010,Fenland,2,Largely Rural (rural including hub towns 50-79%) ,22365.00,44094.00,66459.00,95262.00,69.8
+E07000011,Huntingdonshire,1,Mainly Rural (rural including hub towns >=80%) ,93494.00,43456.00,136950.00,169508.00,80.8
+E07000012,South Cambridgeshire,2,Largely Rural (rural including hub towns 50-79%) ,113829.00,0.00,113829.00,148755.00,76.5
+E07000026,Allerdale,1,Mainly Rural (rural including hub towns >=80%) ,69302.00,27120.00,96422.00,96422.00,100
+E07000027,Barrow-in-Furness,3,Urban with Significant Rural (rural including hub towns 26-49%),23222.00,0.00,23222.00,69087.00,33.6
+E07000028,Carlisle,3,Urban with Significant Rural (rural including hub towns 26-49%),29054.00,0.00,29054.00,107524.00,27
+E07000029,Copeland,1,Mainly Rural (rural including hub towns >=80%) ,45703.00,24900.00,70603.00,70603.00,100
+E07000030,Eden,1,Mainly Rural (rural including hub towns >=80%) ,37383.00,15181.00,52564.00,52564.00,100
+E07000031,South Lakeland,1,Mainly Rural (rural including hub towns >=80%) ,63155.00,40503.00,103658.00,103658.00,100
+E07000032,Amber Valley,5,Urban with Minor Conurbation,23469.00,0.00,23469.00,122309.00,19.2
+E07000033,Bolsover,3,Urban with Significant Rural (rural including hub towns 26-49%),35778.00,0.00,35778.00,75866.00,47.2
+E07000034,Chesterfield,4,Urban with City and Town,1909.00,0.00,1909.00,103788.00,1.8
+E07000035,Derbyshire Dales,1,Mainly Rural (rural including hub towns >=80%) ,56160.00,14956.00,71116.00,71116.00,100
+E07000036,Erewash,5,Urban with Minor Conurbation,1987.00,0.00,1987.00,112081.00,1.8
+E07000037,High Peak,2,Largely Rural (rural including hub towns 50-79%) ,27861.00,22115.00,49976.00,90892.00,55
+E07000038,North East Derbyshire,4,Urban with City and Town,19948.00,0.00,19948.00,99023.00,20.1
+E07000039,South Derbyshire,3,Urban with Significant Rural (rural including hub towns 26-49%),41072.00,0.00,41072.00,94611.00,43.4
+E07000040,East Devon,2,Largely Rural (rural including hub towns 50-79%) ,73973.00,24052.00,98025.00,132457.00,74
+E07000041,Exeter,4,Urban with City and Town,536.00,0.00,536.00,117773.00,0.5
+E07000042,Mid Devon,1,Mainly Rural (rural including hub towns >=80%) ,58206.00,19544.00,77750.00,77750.00,100
+E07000043,North Devon,2,Largely Rural (rural including hub towns 50-79%) ,50867.00,11184.00,62051.00,93667.00,66.2
+E07000044,South Hams,1,Mainly Rural (rural including hub towns >=80%) ,65564.00,11851.00,77415.00,83140.00,93.1
+E07000045,Teignbridge,2,Largely Rural (rural including hub towns 50-79%) ,58445.00,28775.00,87220.00,124220.00,70.2
+E07000046,Torridge,1,Mainly Rural (rural including hub towns >=80%) ,35167.00,28672.00,63839.00,63839.00,100
+E07000047,West Devon,1,Mainly Rural (rural including hub towns >=80%) ,41273.00,12280.00,53553.00,53553.00,100
+E07000048,Christchurch,4,Urban with City and Town,669.00,0.00,669.00,47752.00,1.4
+E07000049,East Dorset,3,Urban with Significant Rural (rural including hub towns 26-49%),21167.00,13360.00,34527.00,87166.00,39.6
+E07000050,North Dorset,1,Mainly Rural (rural including hub towns >=80%) ,45611.00,22972.00,68583.00,68583.00,100
+E07000051,Purbeck,1,Mainly Rural (rural including hub towns >=80%) ,27187.00,10454.00,37641.00,44973.00,83.7
+E07000052,West Dorset,1,Mainly Rural (rural including hub towns >=80%) ,60720.00,32797.00,93517.00,99264.00,94.2
+E07000053,Weymouth and Portland,4,Urban with City and Town,13223.00,0.00,13223.00,65167.00,20.3
+E07000061,Eastbourne,4,Urban with City and Town,0.00,0.00,0.00,99412.00,0
+E07000062,Hastings,4,Urban with City and Town,0.00,0.00,0.00,90254.00,0
+E07000063,Lewes,3,Urban with Significant Rural (rural including hub towns 26-49%),22329.00,17297.00,39626.00,97502.00,40.6
+E07000064,Rother,2,Largely Rural (rural including hub towns 50-79%) ,47420.00,0.00,47420.00,90588.00,52.3
+E07000065,Wealden,1,Mainly Rural (rural including hub towns >=80%) ,66976.00,59036.00,126012.00,148915.00,84.6
+E07000066,Basildon,4,Urban with City and Town,865.00,0.00,865.00,174497.00,0.5
+E07000067,Braintree,2,Largely Rural (rural including hub towns 50-79%) ,56348.00,37259.00,93607.00,147084.00,63.6
+E07000068,Brentwood,3,Urban with Significant Rural (rural including hub towns 26-49%),20703.00,0.00,20703.00,73601.00,28.1
+E07000069,Castle Point,4,Urban with City and Town,0.00,0.00,0.00,88011.00,0
+E07000070,Chelmsford,4,Urban with City and Town,33093.00,0.00,33093.00,168310.00,19.7
+E07000071,Colchester,3,Urban with Significant Rural (rural including hub towns 26-49%),51215.00,0.00,51215.00,173074.00,29.6
+E07000072,Epping Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),33186.00,0.00,33186.00,124659.00,26.6
+E07000073,Harlow,4,Urban with City and Town,0.00,0.00,0.00,81944.00,0
+E07000074,Maldon,1,Mainly Rural (rural including hub towns >=80%) ,40167.00,21462.00,61629.00,61629.00,100
+E07000075,Rochford,4,Urban with City and Town,11476.00,0.00,11476.00,83287.00,13.8
+E07000076,Tendring,2,Largely Rural (rural including hub towns 50-79%) ,49319.00,38181.00,87500.00,138048.00,63.4
+E07000077,Uttlesford,1,Mainly Rural (rural including hub towns >=80%) ,64233.00,15210.00,79443.00,79443.00,100
+E07000078,Cheltenham,4,Urban with City and Town,327.00,0.00,327.00,115732.00,0.3
+E07000079,Cotswold,1,Mainly Rural (rural including hub towns >=80%) ,65728.00,17153.00,82881.00,82881.00,100
+E07000080,Forest of Dean,1,Mainly Rural (rural including hub towns >=80%) ,54803.00,23339.00,78142.00,81961.00,95.3
+E07000081,Gloucester,4,Urban with City and Town,0.00,0.00,0.00,121688.00,0
+E07000082,Stroud,3,Urban with Significant Rural (rural including hub towns 26-49%),32401.00,14992.00,47393.00,112779.00,42
+E07000083,Tewkesbury,2,Largely Rural (rural including hub towns 50-79%) ,23758.00,19778.00,43536.00,81943.00,53.1
+E07000084,Basingstoke and Deane,3,Urban with Significant Rural (rural including hub towns 26-49%),44724.00,15433.00,60157.00,167799.00,35.9
+E07000085,East Hampshire,1,Mainly Rural (rural including hub towns >=80%) ,41284.00,54213.00,95497.00,115608.00,82.6
+E07000086,Eastleigh,4,Urban with City and Town,11791.00,0.00,11791.00,125199.00,9.4
+E07000087,Fareham,4,Urban with City and Town,652.00,0.00,652.00,111581.00,0.6
+E07000088,Gosport,4,Urban with City and Town,233.00,0.00,233.00,82622.00,0.3
+E07000089,Hart,3,Urban with Significant Rural (rural including hub towns 26-49%),27586.00,0.00,27586.00,91033.00,30.3
+E07000090,Havant,4,Urban with City and Town,1894.00,0.00,1894.00,120684.00,1.6
+E07000091,New Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),49399.00,30530.00,79929.00,176462.00,45.3
+E07000092,Rushmoor,4,Urban with City and Town,1392.00,0.00,1392.00,93807.00,1.5
+E07000093,Test Valley,3,Urban with Significant Rural (rural including hub towns 26-49%),42505.00,0.00,42505.00,116398.00,36.5
+E07000094,Winchester,2,Largely Rural (rural including hub towns 50-79%) ,66992.00,0.00,66992.00,116595.00,57.5
+E07000095,Broxbourne,6,Urban with Major Conurbation,154.00,0.00,154.00,93609.00,0.2
+E07000096,Dacorum,3,Urban with Significant Rural (rural including hub towns 26-49%),18875.00,33926.00,52801.00,144847.00,36.5
+E07000097,East Hertfordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),40588.00,0.00,40588.00,137687.00,29.5
+E07000098,Hertsmere,6,Urban with Major Conurbation,15024.00,0.00,15024.00,100031.00,15
+E07000099,North Hertfordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),22949.00,15781.00,38730.00,127114.00,30.5
+E07000100,St Albans,4,Urban with City and Town,13264.00,0.00,13264.00,140664.00,9.4
+E07000101,Stevenage,4,Urban with City and Town,0.00,0.00,0.00,83957.00,0
+E07000102,Three Rivers,6,Urban with Major Conurbation,4644.00,0.00,4644.00,87317.00,5.3
+E07000103,Watford,6,Urban with Major Conurbation,0.00,0.00,0.00,90301.00,0
+E07000104,Welwyn Hatfield,4,Urban with City and Town,13086.00,0.00,13086.00,110535.00,11.8
+E07000105,Ashford,3,Urban with Significant Rural (rural including hub towns 26-49%),43223.00,0.00,43223.00,117956.00,36.6
+E07000106,Canterbury,4,Urban with City and Town,25420.00,0.00,25420.00,151145.00,16.8
+E07000107,Dartford,6,Urban with Major Conurbation,11240.00,0.00,11240.00,97365.00,11.5
+E07000108,Dover,3,Urban with Significant Rural (rural including hub towns 26-49%),39410.00,0.00,39410.00,111674.00,35.3
+E07000109,Gravesham,6,Urban with Major Conurbation,19079.00,0.00,19079.00,101720.00,18.8
+E07000110,Maidstone,3,Urban with Significant Rural (rural including hub towns 26-49%),43730.00,0.00,43730.00,155143.00,28.2
+E07000111,Sevenoaks,2,Largely Rural (rural including hub towns 50-79%) ,51911.00,29506.00,81417.00,114893.00,70.9
+E07000112,Shepway,3,Urban with Significant Rural (rural including hub towns 26-49%),41540.00,0.00,41540.00,107969.00,38.5
+E07000113,Swale,2,Largely Rural (rural including hub towns 50-79%) ,32546.00,53934.00,86480.00,135835.00,63.7
+E07000114,Thanet,4,Urban with City and Town,8816.00,0.00,8816.00,134186.00,6.6
+E07000115,Tonbridge and Malling,3,Urban with Significant Rural (rural including hub towns 26-49%),42046.00,0.00,42046.00,120805.00,34.8
+E07000116,Tunbridge Wells,3,Urban with Significant Rural (rural including hub towns 26-49%),46139.00,0.00,46139.00,115049.00,40.1
+E07000117,Burnley,4,Urban with City and Town,4483.00,0.00,4483.00,87059.00,5.1
+E07000118,Chorley,3,Urban with Significant Rural (rural including hub towns 26-49%),33066.00,0.00,33066.00,107155.00,30.9
+E07000119,Fylde,4,Urban with City and Town,16873.00,0.00,16873.00,75757.00,22.3
+E07000120,Hyndburn,4,Urban with City and Town,7752.00,0.00,7752.00,80734.00,9.6
+E07000121,Lancaster,3,Urban with Significant Rural (rural including hub towns 26-49%),41225.00,0.00,41225.00,138375.00,29.8
+E07000122,Pendle,4,Urban with City and Town,12514.00,10435.00,22949.00,89452.00,25.7
+E07000123,Preston,4,Urban with City and Town,8125.00,0.00,8125.00,140202.00,5.8
+E07000124,Ribble Valley,1,Mainly Rural (rural including hub towns >=80%) ,38343.00,14765.00,53108.00,57132.00,93
+E07000125,Rossendale,4,Urban with City and Town,3559.00,0.00,3559.00,67982.00,5.2
+E07000126,South Ribble,4,Urban with City and Town,1891.00,0.00,1891.00,109057.00,1.7
+E07000127,West Lancashire,3,Urban with Significant Rural (rural including hub towns 26-49%),42419.00,0.00,42419.00,110685.00,38.3
+E07000128,Wyre,2,Largely Rural (rural including hub towns 50-79%) ,31460.00,25359.00,56819.00,107749.00,52.7
+E07000129,Blaby,4,Urban with City and Town,18310.00,509.00,18819.00,93915.00,20
+E07000130,Charnwood,4,Urban with City and Town,23963.00,0.00,23963.00,166100.00,14.4
+E07000131,Harborough,1,Mainly Rural (rural including hub towns >=80%) ,57366.00,22911.00,80277.00,85382.00,94
+E07000132,Hinckley and Bosworth,2,Largely Rural (rural including hub towns 50-79%) ,33848.00,19733.00,53581.00,105078.00,51
+E07000133,Melton,1,Mainly Rural (rural including hub towns >=80%) ,23218.00,27158.00,50376.00,50376.00,100
+E07000134,North West Leicestershire,2,Largely Rural (rural including hub towns 50-79%) ,41871.00,12370.00,54241.00,93468.00,58
+E07000135,Oadby and Wigston,4,Urban with City and Town,0.00,0.00,0.00,56170.00,0
+E07000136,Boston,3,Urban with Significant Rural (rural including hub towns 26-49%),23297.00,0.00,23297.00,64637.00,36
+E07000137,East Lindsey,1,Mainly Rural (rural including hub towns >=80%) ,82575.00,53826.00,136401.00,136401.00,100
+E07000138,Lincoln,4,Urban with City and Town,0.00,0.00,0.00,93541.00,0
+E07000139,North Kesteven,1,Mainly Rural (rural including hub towns >=80%) ,69566.00,17359.00,86925.00,107766.00,80.7
+E07000140,South Holland,2,Largely Rural (rural including hub towns 50-79%) ,56682.00,0.00,56682.00,88270.00,64.2
+E07000141,South Kesteven,2,Largely Rural (rural including hub towns 50-79%) ,43234.00,46721.00,89955.00,133788.00,67.2
+E07000142,West Lindsey,1,Mainly Rural (rural including hub towns >=80%) ,67911.00,20842.00,88753.00,89250.00,99.4
+E07000143,Breckland,1,Mainly Rural (rural including hub towns >=80%) ,74458.00,56033.00,130491.00,130491.00,100
+E07000144,Broadland,3,Urban with Significant Rural (rural including hub towns 26-49%),60433.00,0.00,60433.00,124646.00,48.5
+E07000145,Great Yarmouth,3,Urban with Significant Rural (rural including hub towns 26-49%),33843.00,0.00,33843.00,97277.00,34.8
+E07000146,King's Lynn and West Norfolk,2,Largely Rural (rural including hub towns 50-79%) ,86788.00,10884.00,97672.00,147451.00,66.2
+E07000147,North Norfolk,1,Mainly Rural (rural including hub towns >=80%) ,89036.00,12463.00,101499.00,101499.00,100
+E07000148,Norwich,4,Urban with City and Town,0.00,0.00,0.00,132512.00,0
+E07000149,South Norfolk,1,Mainly Rural (rural including hub towns >=80%) ,84155.00,23416.00,107571.00,124012.00,86.7
+E07000150,Corby,4,Urban with City and Town,4445.00,0.00,4445.00,61255.00,7.3
+E07000151,Daventry,1,Mainly Rural (rural including hub towns >=80%) ,49398.00,23879.00,73277.00,77843.00,94.1
+E07000152,East Northamptonshire,2,Largely Rural (rural including hub towns 50-79%) ,50057.00,0.00,50057.00,86765.00,57.7
+E07000153,Kettering,4,Urban with City and Town,19103.00,0.00,19103.00,93475.00,20.4
+E07000154,Northampton,4,Urban with City and Town,956.00,0.00,956.00,212069.00,0.5
+E07000155,South Northamptonshire,1,Mainly Rural (rural including hub towns >=80%) ,71887.00,13018.00,84905.00,85189.00,99.7
+E07000156,Wellingborough,3,Urban with Significant Rural (rural including hub towns 26-49%),24779.00,0.00,24779.00,75356.00,32.9
+E07000163,Craven,1,Mainly Rural (rural including hub towns >=80%) ,33222.00,14623.00,47845.00,55409.00,86.3
+E07000164,Hambleton,1,Mainly Rural (rural including hub towns >=80%) ,72308.00,16832.00,89140.00,89140.00,100
+E07000165,Harrogate,3,Urban with Significant Rural (rural including hub towns 26-49%),51899.00,16363.00,68262.00,157869.00,43.2
+E07000166,Richmondshire,1,Mainly Rural (rural including hub towns >=80%) ,40161.00,11804.00,51965.00,51965.00,100
+E07000167,Ryedale,1,Mainly Rural (rural including hub towns >=80%) ,39814.00,11937.00,51751.00,51751.00,100
+E07000168,Scarborough,3,Urban with Significant Rural (rural including hub towns 26-49%),33831.00,13213.00,47044.00,108793.00,43.2
+E07000169,Selby,1,Mainly Rural (rural including hub towns >=80%) ,56582.00,24859.00,81441.00,83449.00,97.6
+E07000170,Ashfield,4,Urban with City and Town,905.00,0.00,905.00,119497.00,0.8
+E07000171,Bassetlaw,2,Largely Rural (rural including hub towns 50-79%) ,47588.00,22023.00,69611.00,112863.00,61.7
+E07000172,Broxtowe,5,Urban with Minor Conurbation,423.00,0.00,423.00,109487.00,0.4
+E07000173,Gedling,5,Urban with Minor Conurbation,20717.00,0.00,20717.00,113543.00,18.2
+E07000174,Mansfield,4,Urban with City and Town,13703.00,0.00,13703.00,104466.00,13.1
+E07000175,Newark and Sherwood,2,Largely Rural (rural including hub towns 50-79%) ,67107.00,0.00,67107.00,114817.00,58.4
+E07000176,Rushcliffe,2,Largely Rural (rural including hub towns 50-79%) ,62832.00,0.00,62832.00,111129.00,56.5
+E07000177,Cherwell,3,Urban with Significant Rural (rural including hub towns 26-49%),43542.00,15829.00,59371.00,141868.00,41.8
+E07000178,Oxford,4,Urban with City and Town,1872.00,0.00,1872.00,151906.00,1.2
+E07000179,South Oxfordshire,1,Mainly Rural (rural including hub towns >=80%) ,67005.00,59469.00,126474.00,134257.00,94.2
+E07000180,Vale of White Horse,2,Largely Rural (rural including hub towns 50-79%) ,46866.00,21548.00,68414.00,120988.00,56.5
+E07000181,West Oxfordshire,1,Mainly Rural (rural including hub towns >=80%) ,59312.00,45467.00,104779.00,104779.00,100
+E07000187,Mendip,1,Mainly Rural (rural including hub towns >=80%) ,48453.00,60826.00,109279.00,109279.00,100
+E07000188,Sedgemoor,2,Largely Rural (rural including hub towns 50-79%) ,49987.00,23325.00,73312.00,114588.00,64
+E07000189,South Somerset,2,Largely Rural (rural including hub towns 50-79%) ,102385.00,13074.00,115459.00,161243.00,71.6
+E07000190,Taunton Deane,3,Urban with Significant Rural (rural including hub towns 26-49%),31744.00,13822.00,45566.00,110187.00,41.4
+E07000191,West Somerset,1,Mainly Rural (rural including hub towns >=80%) ,22694.00,11981.00,34675.00,34675.00,100
+E07000192,Cannock Chase,3,Urban with Significant Rural (rural including hub towns 26-49%),10767.00,24033.00,34800.00,97462.00,35.7
+E07000193,East Staffordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),26174.00,13089.00,39263.00,113583.00,34.6
+E07000194,Lichfield,3,Urban with Significant Rural (rural including hub towns 26-49%),29714.00,0.00,29714.00,100654.00,29.5
+E07000195,Newcastle-under-Lyme,4,Urban with City and Town,25471.00,0.00,25471.00,123871.00,20.6
+E07000196,South Staffordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),42385.00,0.00,42385.00,108131.00,39.2
+E07000197,Stafford,3,Urban with Significant Rural (rural including hub towns 26-49%),40119.00,16385.00,56504.00,130869.00,43.2
+E07000198,Staffordshire Moorlands,2,Largely Rural (rural including hub towns 50-79%) ,31226.00,31307.00,62533.00,97106.00,64.4
+E07000199,Tamworth,4,Urban with City and Town,0.00,0.00,0.00,76813.00,0
+E07000200,Babergh,1,Mainly Rural (rural including hub towns >=80%) ,60759.00,22213.00,82972.00,87740.00,94.6
+E07000201,Forest Heath,1,Mainly Rural (rural including hub towns >=80%) ,27124.00,32624.00,59748.00,59748.00,100
+E07000202,Ipswich,4,Urban with City and Town,0.00,0.00,0.00,133384.00,0
+E07000203,Mid Suffolk,1,Mainly Rural (rural including hub towns >=80%) ,72772.00,21933.00,94705.00,96731.00,97.9
+E07000204,St Edmundsbury,2,Largely Rural (rural including hub towns 50-79%) ,41155.00,27041.00,68196.00,111008.00,61.4
+E07000205,Suffolk Coastal,2,Largely Rural (rural including hub towns 50-79%) ,56470.00,29171.00,85641.00,124298.00,68.9
+E07000206,Waveney,3,Urban with Significant Rural (rural including hub towns 26-49%),30441.00,13868.00,44309.00,115254.00,38.4
+E07000207,Elmbridge,6,Urban with Major Conurbation,2847.00,0.00,2847.00,130875.00,2.2
+E07000208,Epsom and Ewell,6,Urban with Major Conurbation,2824.00,0.00,2824.00,75102.00,3.8
+E07000209,Guildford,4,Urban with City and Town,33989.00,885.00,34874.00,137183.00,25.4
+E07000210,Mole Valley,3,Urban with Significant Rural (rural including hub towns 26-49%),21965.00,17747.00,39712.00,85375.00,46.5
+E07000211,Reigate and Banstead,4,Urban with City and Town,7025.00,0.00,7025.00,137835.00,5.1
+E07000212,Runnymede,6,Urban with Major Conurbation,1649.00,0.00,1649.00,80510.00,2
+E07000213,Spelthorne,6,Urban with Major Conurbation,1360.00,0.00,1360.00,95598.00,1.4
+E07000214,Surrey Heath,4,Urban with City and Town,13819.00,0.00,13819.00,86144.00,16
+E07000215,Tandridge,3,Urban with Significant Rural (rural including hub towns 26-49%),30691.00,0.00,30691.00,82998.00,37
+E07000216,Waverley,2,Largely Rural (rural including hub towns 50-79%) ,33990.00,44544.00,78534.00,121572.00,64.6
+E07000217,Woking,6,Urban with Major Conurbation,1982.00,0.00,1982.00,99198.00,2
+E07000218,North Warwickshire,1,Mainly Rural (rural including hub towns >=80%) ,46426.00,10573.00,56999.00,62014.00,91.9
+E07000219,Nuneaton and Bedworth,4,Urban with City and Town,0.00,0.00,0.00,125252.00,0
+E07000220,Rugby,4,Urban with City and Town,24260.00,0.00,24260.00,100075.00,24.2
+E07000221,Stratford-on-Avon,1,Mainly Rural (rural including hub towns >=80%) ,92321.00,27830.00,120151.00,120485.00,99.7
+E07000222,Warwick,4,Urban with City and Town,17090.00,0.00,17090.00,137648.00,12.4
+E07000223,Adur,4,Urban with City and Town,810.00,0.00,810.00,61182.00,1.3
+E07000224,Arun,4,Urban with City and Town,25447.00,0.00,25447.00,149518.00,17
+E07000225,Chichester,2,Largely Rural (rural including hub towns 50-79%) ,60312.00,12543.00,72855.00,113794.00,64
+E07000226,Crawley,4,Urban with City and Town,353.00,0.00,353.00,106597.00,0.3
+E07000227,Horsham,2,Largely Rural (rural including hub towns 50-79%) ,79507.00,0.00,79507.00,131301.00,60.6
+E07000228,Mid Sussex,4,Urban with City and Town,25145.00,0.00,25145.00,139860.00,18
+E07000229,Worthing,4,Urban with City and Town,0.00,0.00,0.00,104640.00,0
+E07000234,Bromsgrove,4,Urban with City and Town,19619.00,0.00,19619.00,93637.00,21
+E07000235,Malvern Hills,2,Largely Rural (rural including hub towns 50-79%) ,39106.00,0.00,39106.00,74631.00,52.4
+E07000236,Redditch,4,Urban with City and Town,2592.00,0.00,2592.00,84214.00,3.1
+E07000237,Worcester,4,Urban with City and Town,129.00,0.00,129.00,98768.00,0.1
+E07000238,Wychavon,1,Mainly Rural (rural including hub towns >=80%) ,66795.00,47704.00,114499.00,116944.00,97.9
+E07000239,Wyre Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),20907.00,20292.00,41199.00,97975.00,42.1
+E08000001,Bolton,6,Urban with Major Conurbation,2488.00,0.00,2488.00,276786.00,0.9
+E08000002,Bury,6,Urban with Major Conurbation,5126.00,0.00,5126.00,185060.00,2.8
+E08000003,Manchester,6,Urban with Major Conurbation,103.00,0.00,103.00,503127.00,0
+E08000004,Oldham,6,Urban with Major Conurbation,2657.00,0.00,2657.00,224897.00,1.2
+E08000005,Rochdale,6,Urban with Major Conurbation,2577.00,0.00,2577.00,211699.00,1.2
+E08000006,Salford,6,Urban with Major Conurbation,284.00,0.00,284.00,233933.00,0.1
+E08000007,Stockport,6,Urban with Major Conurbation,1249.00,0.00,1249.00,283275.00,0.4
+E08000008,Tameside,6,Urban with Major Conurbation,645.00,0.00,645.00,219324.00,0.3
+E08000009,Trafford,6,Urban with Major Conurbation,824.00,0.00,824.00,226578.00,0.4
+E08000010,Wigan,6,Urban with Major Conurbation,11556.00,0.00,11556.00,317849.00,3.6
+E08000011,Knowsley,6,Urban with Major Conurbation,993.00,0.00,993.00,145893.00,0.7
+E08000012,Liverpool,6,Urban with Major Conurbation,0.00,0.00,0.00,466415.00,0
+E08000013,St. Helens,6,Urban with Major Conurbation,9729.00,0.00,9729.00,175308.00,5.5
+E08000014,Sefton,6,Urban with Major Conurbation,3979.00,0.00,3979.00,273790.00,1.5
+E08000015,Wirral,6,Urban with Major Conurbation,3538.00,0.00,3538.00,319783.00,1.1
+E08000016,Barnsley,5,Urban with Minor Conurbation,24173.00,0.00,24173.00,231221.00,10.5
+E08000017,Doncaster,5,Urban with Minor Conurbation,42162.00,17295.00,59457.00,302402.00,19.7
+E08000018,Rotherham,5,Urban with Minor Conurbation,26103.00,0.00,26103.00,257280.00,10.1
+E08000019,Sheffield,5,Urban with Minor Conurbation,9690.00,13069.00,22759.00,552698.00,4.1
+E08000020,Gateshead,6,Urban with Major Conurbation,16063.00,0.00,16063.00,200214.00,8
+E08000021,Newcastle upon Tyne,6,Urban with Major Conurbation,5733.00,0.00,5733.00,280177.00,2
+E08000022,North Tyneside,6,Urban with Major Conurbation,8523.00,0.00,8523.00,200801.00,4.2
+E08000023,South Tyneside,6,Urban with Major Conurbation,601.00,0.00,601.00,148127.00,0.4
+E08000024,Sunderland,6,Urban with Major Conurbation,1493.00,0.00,1493.00,275506.00,0.5
+E08000025,Birmingham,6,Urban with Major Conurbation,553.00,0.00,553.00,1073045.00,0.1
+E08000026,Coventry,4,Urban with City and Town,565.00,0.00,565.00,316960.00,0.2
+E08000027,Dudley,6,Urban with Major Conurbation,276.00,0.00,276.00,312925.00,0.1
+E08000028,Sandwell,6,Urban with Major Conurbation,0.00,0.00,0.00,308063.00,0
+E08000029,Solihull,6,Urban with Major Conurbation,20398.00,0.00,20398.00,206674.00,9.9
+E08000030,Walsall,6,Urban with Major Conurbation,3005.00,0.00,3005.00,269323.00,1.1
+E08000031,Wolverhampton,6,Urban with Major Conurbation,0.00,0.00,0.00,249470.00,0
+E08000032,Bradford,6,Urban with Major Conurbation,35828.00,14809.00,50637.00,522452.00,9.7
+E08000033,Calderdale,6,Urban with Major Conurbation,39226.00,11690.00,50916.00,203826.00,25
+E08000034,Kirklees,6,Urban with Major Conurbation,48918.00,0.00,48918.00,422458.00,11.6
+E08000035,Leeds,6,Urban with Major Conurbation,43035.00,13572.00,56607.00,751485.00,7.5
+E08000036,Wakefield,4,Urban with City and Town,57828.00,18899.00,76727.00,325837.00,23.5
+E41000324,City of London,6,Urban with Major Conurbation,0.00,0.00,0.00,7375.00,0
+E09000002,Barking and Dagenham,6,Urban with Major Conurbation,0.00,0.00,0.00,185911.00,0
+E09000003,Barnet,6,Urban with Major Conurbation,0.00,0.00,0.00,356386.00,0
+E09000004,Bexley,6,Urban with Major Conurbation,152.00,0.00,152.00,231997.00,0.1
+E09000005,Brent,6,Urban with Major Conurbation,0.00,0.00,0.00,311215.00,0
+E09000006,Bromley,6,Urban with Major Conurbation,3455.00,0.00,3455.00,309392.00,1.1
+E09000007,Camden,6,Urban with Major Conurbation,0.00,0.00,0.00,220338.00,0
+E09000008,Croydon,6,Urban with Major Conurbation,0.00,0.00,0.00,363378.00,0
+E09000009,Ealing,6,Urban with Major Conurbation,0.00,0.00,0.00,338449.00,0
+E09000010,Enfield,6,Urban with Major Conurbation,1478.00,0.00,1478.00,312466.00,0.5
+E09000011,Greenwich,6,Urban with Major Conurbation,0.00,0.00,0.00,254557.00,0
+E09000012,Hackney,6,Urban with Major Conurbation,625.00,0.00,625.00,246270.00,0.3
+E09000013,Hammersmith and Fulham,6,Urban with Major Conurbation,0.00,0.00,0.00,182493.00,0
+E09000014,Haringey,6,Urban with Major Conurbation,0.00,0.00,0.00,254926.00,0
+E09000015,Harrow,6,Urban with Major Conurbation,601.00,0.00,601.00,239056.00,0.3
+E09000016,Havering,6,Urban with Major Conurbation,1860.00,0.00,1860.00,237232.00,0.8
+E09000017,Hillingdon,6,Urban with Major Conurbation,7399.00,0.00,7399.00,273936.00,2.7
+E09000018,Hounslow,6,Urban with Major Conurbation,0.00,0.00,0.00,253957.00,0
+E09000019,Islington,6,Urban with Major Conurbation,0.00,0.00,0.00,206125.00,0
+E09000020,Kensington and Chelsea,6,Urban with Major Conurbation,0.00,0.00,0.00,158649.00,0
+E09000021,Kingston upon Thames,6,Urban with Major Conurbation,424.00,0.00,424.00,160060.00,0.3
+E09000022,Lambeth,6,Urban with Major Conurbation,0.00,0.00,0.00,303086.00,0
+E09000023,Lewisham,6,Urban with Major Conurbation,0.00,0.00,0.00,275885.00,0
+E09000024,Merton,6,Urban with Major Conurbation,0.00,0.00,0.00,199693.00,0
+E09000025,Newham,6,Urban with Major Conurbation,0.00,0.00,0.00,307984.00,0
+E09000026,Redbridge,6,Urban with Major Conurbation,0.00,0.00,0.00,278970.00,0
+E09000027,Richmond upon Thames,6,Urban with Major Conurbation,0.00,0.00,0.00,186990.00,0
+E09000028,Southwark,6,Urban with Major Conurbation,0.00,0.00,0.00,288283.00,0
+E09000029,Sutton,6,Urban with Major Conurbation,0.00,0.00,0.00,190146.00,0
+E09000030,Tower Hamlets,6,Urban with Major Conurbation,0.00,0.00,0.00,254096.00,0
+E09000031,Waltham Forest,6,Urban with Major Conurbation,0.00,0.00,0.00,258249.00,0
+E09000032,Wandsworth,6,Urban with Major Conurbation,0.00,0.00,0.00,306995.00,0
+E41000324,Westminster,6,Urban with Major Conurbation,0.00,0.00,0.00,219396.00,0

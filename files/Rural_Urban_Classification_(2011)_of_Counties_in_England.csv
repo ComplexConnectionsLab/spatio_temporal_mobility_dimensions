@@ -1,0 +1,28 @@
+﻿geo_code,CTYNM,Total_Rural_population_2011,Urban_City_and_Town_population_2011,Urban_Minor_Conurbation_population_2011,Urban_Major_Conurbation_population_2011,Total_Urban_population_2011,Total_population_2011,Hub_towns_rural_related_population_included_in_Urban_population_2011,Rural_including_hub_towns_rural_&_rural_related_population_2011,Rural_including_hub_towns_rural_&_rural_related_population_as_%_of_Total_population_2011,RUC11CD,RUC11,Broad_RUC11,OBJECTID
+E10000002,Buckinghamshire,165740,338097,0,1446,339543,505283,30969,196709,38.93,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,0
+E10000003,Cambridgeshire,292633,328577,0,0,328577,621210,108782,401415,64.61,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,1
+E10000006,Cumbria,267819,232039,0,0,232039,499858,107704,375523,75.12,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,2
+E10000007,Derbyshire,208184,322827,207595,31080,561502,769686,37071,245255,31.86,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,3
+E10000008,Devon,384031,362368,0,0,362368,746399,136358,520389,69.71,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,4
+E10000009,Dorset,168577,244328,0,0,244328,412905,79583,248160,60.1,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,5
+E10000011,East Sussex,136725,389946,0,0,389946,526671,76333,213058,40.45,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,6
+E10000012,Essex,360605,959885,0,73097,1032982,1393587,112112,472717,33.92,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,7
+E10000013,Gloucestershire,177017,419967,0,0,419967,596984,75262,252279,42.25,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,8
+E10000014,Hampshire,288452,1029336,0,0,1029336,1317788,100176,388628,29.49,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,9
+E10000015,Hertfordshire,128584,578296,0,409182,987478,1116062,49707,178291,15.97,4,Urban with City and Town,Predominantly Urban,10
+E10000016,Kent,405100,875105,0,183535,1058640,1463740,83440,488540,33.37,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,11
+E10000017,Lancashire,241710,887982,0,41647,929629,1171339,50559,292269,24.95,4,Urban with City and Town,Predominantly Urban,12
+E10000018,Leicestershire,198576,451913,0,0,451913,650489,82681,281257,43.23,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,13
+E10000019,Lincolnshire,343265,370388,0,0,370388,713653,138748,482013,67.54,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,14
+E10000020,Norfolk,428713,429175,0,0,429175,857888,102796,531509,61.95,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,15
+E10000021,Northamptonshire,220625,471327,0,0,471327,691952,36897,257522,37.21,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,16
+E10000023,North Yorkshire,327817,270221,0,338,270559,598376,109631,437448,73.1,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,17
+E10000024,Nottinghamshire,213275,291152,281375,0,572527,785802,22023,235298,29.94,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,18
+E10000025,Oxfordshire,218597,435201,0,0,435201,653798,142313,360910,55.2,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,19
+E10000027,Somerset,255263,274709,0,0,274709,529972,123028,378291,71.37,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,20
+E10000028,Staffordshire,205856,487672,0,154961,642633,848489,84814,290670,34.25,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,21
+E10000029,Suffolk,288721,439442,0,0,439442,728163,146850,435571,59.81,2,Largely Rural (rural including hub towns 50-79%) ,Predominantly Rural,22
+E10000030,Surrey,152141,428512,0,551737,980249,1132390,63176,215317,19.01,6,Urban with Major Conurbation,Predominantly Urban,23
+E10000031,Warwickshire,180097,365377,0,0,365377,545474,38403,218500,40.05,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,24
+E10000032,West Sussex,191574,615318,0,0,615318,806892,12543,204117,25.29,4,Urban with City and Town,Predominantly Urban,25
+E10000034,Worcestershire,149148,398125,0,18896,417021,566169,67996,217144,38.35,3,Urban with Significant Rural (rural including hub towns 26-49%),Urban with Significant Rural,26

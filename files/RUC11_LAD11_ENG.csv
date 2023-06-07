@@ -1,0 +1,330 @@
+geo_code,LAD11NM,RUC11CD,RUC11,Rural population1,Hub towns (rural related) population1,Rural including hub towns (rural & rural related) population1, Total population1,Rural including hub towns (rural & rural related) population1 
+E06000001,Hartlepool,4,Urban with City and Town,"3,173",0,"3,173","92,028",3.4
+E06000002,Middlesbrough,4,Urban with City and Town,957,0,957,"138,412",0.7
+E06000003,Redcar and Cleveland,3,Urban with Significant Rural (rural including hub towns 26-49%),"43,880",0,"43,880","135,177",32.5
+E06000004,Stockton-on-Tees,4,Urban with City and Town,"7,536",0,"7,536","191,610",3.9
+E06000005,Darlington,4,Urban with City and Town,"13,201",0,"13,201","105,564",12.5
+E06000006,Halton,4,Urban with City and Town,"3,148",0,"3,148","125,746",2.5
+E06000007,Warrington,4,Urban with City and Town,"25,164",0,"25,164","202,228",12.4
+E06000008,Blackburn with Darwen,4,Urban with City and Town,"6,931",0,"6,931","147,489",4.7
+E06000009,Blackpool,4,Urban with City and Town,555,0,555,"142,065",0.4
+E06000010,"Kingston upon Hull, City of",4,Urban with City and Town,0,0,0,"256,406",0
+E06000011,East Riding of Yorkshire,2,Largely Rural (rural including hub towns 50-79%) ,"146,674","53,794","200,468","334,179",60
+E06000012,North East Lincolnshire,4,Urban with City and Town,"15,814","9,642","25,456","159,616",15.9
+E06000013,North Lincolnshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"75,295","1,108","76,403","167,446",45.6
+E06000014,York,4,Urban with City and Town,"32,440",0,"32,440","198,051",16.4
+E06000015,Derby,4,Urban with City and Town,0,0,0,"248,752",0
+E06000016,Leicester,4,Urban with City and Town,556,0,556,"329,839",0.2
+E06000017,Rutland,1,Mainly Rural (rural including hub towns >=80%) ,"25,847","11,522","37,369","37,369",100
+E06000018,Nottingham,5,Urban with Minor Conurbation,0,0,0,"305,680",0
+E06000019,"Herefordshire, County of",2,Largely Rural (rural including hub towns 50-79%) ,"99,142","21,520","120,662","183,477",65.8
+E06000020,Telford and Wrekin,4,Urban with City and Town,"11,177","12,741","23,918","166,641",14.4
+E06000021,Stoke-on-Trent,4,Urban with City and Town,671,0,671,"249,008",0.3
+E06000022,Bath and North East Somerset,3,Urban with Significant Rural (rural including hub towns 26-49%),"37,103","27,136","64,239","176,016",36.5
+E06000023,"Bristol, City of",4,Urban with City and Town,0,0,0,"428,234",0
+E06000024,North Somerset,3,Urban with Significant Rural (rural including hub towns 26-49%),"37,238","41,545","78,783","202,566",38.9
+E06000025,South Gloucestershire,4,Urban with City and Town,"34,363","11,687","46,050","262,767",17.5
+E06000026,Plymouth,4,Urban with City and Town,0,0,0,"256,384",0
+E06000027,Torbay,4,Urban with City and Town,762,"16,693","17,455","130,959",13.3
+E06000028,Bournemouth,4,Urban with City and Town,139,0,139,"183,491",0.1
+E06000029,Poole,4,Urban with City and Town,236,0,236,"147,645",0.2
+E06000030,Swindon,4,Urban with City and Town,"23,848",0,"23,848","209,156",11.4
+E06000031,Peterborough,4,Urban with City and Town,"21,752",806,"22,558","183,631",12.3
+E06000032,Luton,4,Urban with City and Town,0,0,0,"203,201",0
+E06000033,Southend-on-Sea,4,Urban with City and Town,0,0,0,"173,658",0
+E06000034,Thurrock,6,Urban with Major Conurbation,"19,765",0,"19,765","157,705",12.5
+E06000035,Medway,4,Urban with City and Town,"28,457",0,"28,457","263,925",10.8
+E06000036,Bracknell Forest,4,Urban with City and Town,"2,309",0,"2,309","113,205",2
+E06000037,West Berkshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"56,949",403,"57,352","153,822",37.3
+E06000038,Reading,4,Urban with City and Town,468,0,468,"155,698",0.3
+E06000039,Slough,4,Urban with City and Town,0,0,0,"140,205",0
+E06000040,Windsor and Maidenhead,4,Urban with City and Town,"14,961",182,"15,143","144,560",10.5
+E06000041,Wokingham,4,Urban with City and Town,"27,045",0,"27,045","154,380",17.5
+E06000042,Milton Keynes,4,Urban with City and Town,"21,653",0,"21,653","248,821",8.7
+E06000043,Brighton and Hove,4,Urban with City and Town,"4,318",0,"4,318","273,369",1.6
+E06000044,Portsmouth,4,Urban with City and Town,0,0,0,"205,056",0
+E06000045,Southampton,4,Urban with City and Town,0,0,0,"236,882",0
+E06000046,Isle of Wight,1,Mainly Rural (rural including hub towns >=80%) ,"44,699","93,566","138,265","138,265",100
+E06000047,County Durham,2,Largely Rural (rural including hub towns 50-79%) ,"231,417","81,151","312,568","513,242",60.9
+E06000048,Northumberland,2,Largely Rural (rural including hub towns 50-79%) ,"145,096","78,801","223,897","316,028",70.8
+E06000049,Cheshire East,3,Urban with Significant Rural (rural including hub towns 26-49%),"70,607","74,571","145,178","370,127",39.2
+E06000050,Cheshire West and Chester,3,Urban with Significant Rural (rural including hub towns 26-49%),"86,301",0,"86,301","329,608",26.2
+E06000051,Shropshire,2,Largely Rural (rural including hub towns 50-79%) ,"175,469","53,688","229,157","306,129",74.9
+E06000052,Cornwall,1,Mainly Rural (rural including hub towns >=80%) ,"326,682","115,347","442,029","532,273",83
+E41000052,Isles of Scilly,1,Mainly Rural (rural including hub towns >=80%) ,"2,203",0,"2,203","2,203",100
+E06000054,Wiltshire,2,Largely Rural (rural including hub towns 50-79%) ,"223,719","93,566","317,285","470,981",67.4
+E06000055,Bedford,3,Urban with Significant Rural (rural including hub towns 26-49%),"49,104",0,"49,104","157,479",31.2
+E06000056,Central Bedfordshire,2,Largely Rural (rural including hub towns 50-79%) ,"100,272","48,234","148,506","254,381",58.4
+E07000004,Aylesbury Vale,2,Largely Rural (rural including hub towns 50-79%) ,"86,499","12,890","99,389","174,137",57.1
+E07000005,Chiltern,3,Urban with Significant Rural (rural including hub towns 26-49%),"26,030",0,"26,030","92,635",28.1
+E07000006,South Bucks,3,Urban with Significant Rural (rural including hub towns 26-49%),"21,212",0,"21,212","66,867",31.7
+E07000007,Wycombe,3,Urban with Significant Rural (rural including hub towns 26-49%),"31,999","18,079","50,078","171,644",29.2
+E07000008,Cambridge,4,Urban with City and Town,359,0,359,"123,867",0.3
+E07000009,East Cambridgeshire,1,Mainly Rural (rural including hub towns >=80%) ,"62,586","21,232","83,818","83,818",100
+E07000010,Fenland,2,Largely Rural (rural including hub towns 50-79%) ,"22,365","44,094","66,459","95,262",69.8
+E07000011,Huntingdonshire,1,Mainly Rural (rural including hub towns >=80%) ,"93,494","43,456","136,950","169,508",80.8
+E07000012,South Cambridgeshire,2,Largely Rural (rural including hub towns 50-79%) ,"113,829",0,"113,829","148,755",76.5
+E07000026,Allerdale,1,Mainly Rural (rural including hub towns >=80%) ,"69,302","27,120","96,422","96,422",100
+E07000027,Barrow-in-Furness,3,Urban with Significant Rural (rural including hub towns 26-49%),"23,222",0,"23,222","69,087",33.6
+E07000028,Carlisle,3,Urban with Significant Rural (rural including hub towns 26-49%),"29,054",0,"29,054","107,524",27
+E07000029,Copeland,1,Mainly Rural (rural including hub towns >=80%) ,"45,703","24,900","70,603","70,603",100
+E07000030,Eden,1,Mainly Rural (rural including hub towns >=80%) ,"37,383","15,181","52,564","52,564",100
+E07000031,South Lakeland,1,Mainly Rural (rural including hub towns >=80%) ,"63,155","40,503","103,658","103,658",100
+E07000032,Amber Valley,5,Urban with Minor Conurbation,"23,469",0,"23,469","122,309",19.2
+E07000033,Bolsover,3,Urban with Significant Rural (rural including hub towns 26-49%),"35,778",0,"35,778","75,866",47.2
+E07000034,Chesterfield,4,Urban with City and Town,"1,909",0,"1,909","103,788",1.8
+E07000035,Derbyshire Dales,1,Mainly Rural (rural including hub towns >=80%) ,"56,160","14,956","71,116","71,116",100
+E07000036,Erewash,5,Urban with Minor Conurbation,"1,987",0,"1,987","112,081",1.8
+E07000037,High Peak,2,Largely Rural (rural including hub towns 50-79%) ,"27,861","22,115","49,976","90,892",55
+E07000038,North East Derbyshire,4,Urban with City and Town,"19,948",0,"19,948","99,023",20.1
+E07000039,South Derbyshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"41,072",0,"41,072","94,611",43.4
+E07000040,East Devon,2,Largely Rural (rural including hub towns 50-79%) ,"73,973","24,052","98,025","132,457",74
+E07000041,Exeter,4,Urban with City and Town,536,0,536,"117,773",0.5
+E07000042,Mid Devon,1,Mainly Rural (rural including hub towns >=80%) ,"58,206","19,544","77,750","77,750",100
+E07000043,North Devon,2,Largely Rural (rural including hub towns 50-79%) ,"50,867","11,184","62,051","93,667",66.2
+E07000044,South Hams,1,Mainly Rural (rural including hub towns >=80%) ,"65,564","11,851","77,415","83,140",93.1
+E07000045,Teignbridge,2,Largely Rural (rural including hub towns 50-79%) ,"58,445","28,775","87,220","124,220",70.2
+E07000046,Torridge,1,Mainly Rural (rural including hub towns >=80%) ,"35,167","28,672","63,839","63,839",100
+E07000047,West Devon,1,Mainly Rural (rural including hub towns >=80%) ,"41,273","12,280","53,553","53,553",100
+E07000048,Christchurch,4,Urban with City and Town,669,0,669,"47,752",1.4
+E07000049,East Dorset,3,Urban with Significant Rural (rural including hub towns 26-49%),"21,167","13,360","34,527","87,166",39.6
+E07000050,North Dorset,1,Mainly Rural (rural including hub towns >=80%) ,"45,611","22,972","68,583","68,583",100
+E07000051,Purbeck,1,Mainly Rural (rural including hub towns >=80%) ,"27,187","10,454","37,641","44,973",83.7
+E07000052,West Dorset,1,Mainly Rural (rural including hub towns >=80%) ,"60,720","32,797","93,517","99,264",94.2
+E07000053,Weymouth and Portland,4,Urban with City and Town,"13,223",0,"13,223","65,167",20.3
+E07000061,Eastbourne,4,Urban with City and Town,0,0,0,"99,412",0
+E07000062,Hastings,4,Urban with City and Town,0,0,0,"90,254",0
+E07000063,Lewes,3,Urban with Significant Rural (rural including hub towns 26-49%),"22,329","17,297","39,626","97,502",40.6
+E07000064,Rother,2,Largely Rural (rural including hub towns 50-79%) ,"47,420",0,"47,420","90,588",52.3
+E07000065,Wealden,1,Mainly Rural (rural including hub towns >=80%) ,"66,976","59,036","126,012","148,915",84.6
+E07000066,Basildon,4,Urban with City and Town,865,0,865,"174,497",0.5
+E07000067,Braintree,2,Largely Rural (rural including hub towns 50-79%) ,"56,348","37,259","93,607","147,084",63.6
+E07000068,Brentwood,3,Urban with Significant Rural (rural including hub towns 26-49%),"20,703",0,"20,703","73,601",28.1
+E07000069,Castle Point,4,Urban with City and Town,0,0,0,"88,011",0
+E07000070,Chelmsford,4,Urban with City and Town,"33,093",0,"33,093","168,310",19.7
+E07000071,Colchester,3,Urban with Significant Rural (rural including hub towns 26-49%),"51,215",0,"51,215","173,074",29.6
+E07000072,Epping Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),"33,186",0,"33,186","124,659",26.6
+E07000073,Harlow,4,Urban with City and Town,0,0,0,"81,944",0
+E07000074,Maldon,1,Mainly Rural (rural including hub towns >=80%) ,"40,167","21,462","61,629","61,629",100
+E07000075,Rochford,4,Urban with City and Town,"11,476",0,"11,476","83,287",13.8
+E07000076,Tendring,2,Largely Rural (rural including hub towns 50-79%) ,"49,319","38,181","87,500","138,048",63.4
+E07000077,Uttlesford,1,Mainly Rural (rural including hub towns >=80%) ,"64,233","15,210","79,443","79,443",100
+E07000078,Cheltenham,4,Urban with City and Town,327,0,327,"115,732",0.3
+E07000079,Cotswold,1,Mainly Rural (rural including hub towns >=80%) ,"65,728","17,153","82,881","82,881",100
+E07000080,Forest of Dean,1,Mainly Rural (rural including hub towns >=80%) ,"54,803","23,339","78,142","81,961",95.3
+E07000081,Gloucester,4,Urban with City and Town,0,0,0,"121,688",0
+E07000082,Stroud,3,Urban with Significant Rural (rural including hub towns 26-49%),"32,401","14,992","47,393","112,779",42
+E07000083,Tewkesbury,2,Largely Rural (rural including hub towns 50-79%) ,"23,758","19,778","43,536","81,943",53.1
+E07000084,Basingstoke and Deane,3,Urban with Significant Rural (rural including hub towns 26-49%),"44,724","15,433","60,157","167,799",35.9
+E07000085,East Hampshire,1,Mainly Rural (rural including hub towns >=80%) ,"41,284","54,213","95,497","115,608",82.6
+E07000086,Eastleigh,4,Urban with City and Town,"11,791",0,"11,791","125,199",9.4
+E07000087,Fareham,4,Urban with City and Town,652,0,652,"111,581",0.6
+E07000088,Gosport,4,Urban with City and Town,233,0,233,"82,622",0.3
+E07000089,Hart,3,Urban with Significant Rural (rural including hub towns 26-49%),"27,586",0,"27,586","91,033",30.3
+E07000090,Havant,4,Urban with City and Town,"1,894",0,"1,894","120,684",1.6
+E07000091,New Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),"49,399","30,530","79,929","176,462",45.3
+E07000092,Rushmoor,4,Urban with City and Town,"1,392",0,"1,392","93,807",1.5
+E07000093,Test Valley,3,Urban with Significant Rural (rural including hub towns 26-49%),"42,505",0,"42,505","116,398",36.5
+E07000094,Winchester,2,Largely Rural (rural including hub towns 50-79%) ,"66,992",0,"66,992","116,595",57.5
+E07000095,Broxbourne,6,Urban with Major Conurbation,154,0,154,"93,609",0.2
+E07000096,Dacorum,3,Urban with Significant Rural (rural including hub towns 26-49%),"18,875","33,926","52,801","144,847",36.5
+E07000097,East Hertfordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"40,588",0,"40,588","137,687",29.5
+E07000098,Hertsmere,6,Urban with Major Conurbation,"15,024",0,"15,024","100,031",15
+E07000099,North Hertfordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"22,949","15,781","38,730","127,114",30.5
+E07000100,St Albans,4,Urban with City and Town,"13,264",0,"13,264","140,664",9.4
+E07000101,Stevenage,4,Urban with City and Town,0,0,0,"83,957",0
+E07000102,Three Rivers,6,Urban with Major Conurbation,"4,644",0,"4,644","87,317",5.3
+E07000103,Watford,6,Urban with Major Conurbation,0,0,0,"90,301",0
+E07000104,Welwyn Hatfield,4,Urban with City and Town,"13,086",0,"13,086","110,535",11.8
+E07000105,Ashford,3,Urban with Significant Rural (rural including hub towns 26-49%),"43,223",0,"43,223","117,956",36.6
+E07000106,Canterbury,4,Urban with City and Town,"25,420",0,"25,420","151,145",16.8
+E07000107,Dartford,6,Urban with Major Conurbation,"11,240",0,"11,240","97,365",11.5
+E07000108,Dover,3,Urban with Significant Rural (rural including hub towns 26-49%),"39,410",0,"39,410","111,674",35.3
+E07000109,Gravesham,6,Urban with Major Conurbation,"19,079",0,"19,079","101,720",18.8
+E07000110,Maidstone,3,Urban with Significant Rural (rural including hub towns 26-49%),"43,730",0,"43,730","155,143",28.2
+E07000111,Sevenoaks,2,Largely Rural (rural including hub towns 50-79%) ,"51,911","29,506","81,417","114,893",70.9
+E07000112,Shepway,3,Urban with Significant Rural (rural including hub towns 26-49%),"41,540",0,"41,540","107,969",38.5
+E07000113,Swale,2,Largely Rural (rural including hub towns 50-79%) ,"32,546","53,934","86,480","135,835",63.7
+E07000114,Thanet,4,Urban with City and Town,"8,816",0,"8,816","134,186",6.6
+E07000115,Tonbridge and Malling,3,Urban with Significant Rural (rural including hub towns 26-49%),"42,046",0,"42,046","120,805",34.8
+E07000116,Tunbridge Wells,3,Urban with Significant Rural (rural including hub towns 26-49%),"46,139",0,"46,139","115,049",40.1
+E07000117,Burnley,4,Urban with City and Town,"4,483",0,"4,483","87,059",5.1
+E07000118,Chorley,3,Urban with Significant Rural (rural including hub towns 26-49%),"33,066",0,"33,066","107,155",30.9
+E07000119,Fylde,4,Urban with City and Town,"16,873",0,"16,873","75,757",22.3
+E07000120,Hyndburn,4,Urban with City and Town,"7,752",0,"7,752","80,734",9.6
+E07000121,Lancaster,3,Urban with Significant Rural (rural including hub towns 26-49%),"41,225",0,"41,225","138,375",29.8
+E07000122,Pendle,4,Urban with City and Town,"12,514","10,435","22,949","89,452",25.7
+E07000123,Preston,4,Urban with City and Town,"8,125",0,"8,125","140,202",5.8
+E07000124,Ribble Valley,1,Mainly Rural (rural including hub towns >=80%) ,"38,343","14,765","53,108","57,132",93
+E07000125,Rossendale,4,Urban with City and Town,"3,559",0,"3,559","67,982",5.2
+E07000126,South Ribble,4,Urban with City and Town,"1,891",0,"1,891","109,057",1.7
+E07000127,West Lancashire,3,Urban with Significant Rural (rural including hub towns 26-49%),"42,419",0,"42,419","110,685",38.3
+E07000128,Wyre,2,Largely Rural (rural including hub towns 50-79%) ,"31,460","25,359","56,819","107,749",52.7
+E07000129,Blaby,4,Urban with City and Town,"18,310",509,"18,819","93,915",20
+E07000130,Charnwood,4,Urban with City and Town,"23,963",0,"23,963","166,100",14.4
+E07000131,Harborough,1,Mainly Rural (rural including hub towns >=80%) ,"57,366","22,911","80,277","85,382",94
+E07000132,Hinckley and Bosworth,2,Largely Rural (rural including hub towns 50-79%) ,"33,848","19,733","53,581","105,078",51
+E07000133,Melton,1,Mainly Rural (rural including hub towns >=80%) ,"23,218","27,158","50,376","50,376",100
+E07000134,North West Leicestershire,2,Largely Rural (rural including hub towns 50-79%) ,"41,871","12,370","54,241","93,468",58
+E07000135,Oadby and Wigston,4,Urban with City and Town,0,0,0,"56,170",0
+E07000136,Boston,3,Urban with Significant Rural (rural including hub towns 26-49%),"23,297",0,"23,297","64,637",36
+E07000137,East Lindsey,1,Mainly Rural (rural including hub towns >=80%) ,"82,575","53,826","136,401","136,401",100
+E07000138,Lincoln,4,Urban with City and Town,0,0,0,"93,541",0
+E07000139,North Kesteven,1,Mainly Rural (rural including hub towns >=80%) ,"69,566","17,359","86,925","107,766",80.7
+E07000140,South Holland,2,Largely Rural (rural including hub towns 50-79%) ,"56,682",0,"56,682","88,270",64.2
+E07000141,South Kesteven,2,Largely Rural (rural including hub towns 50-79%) ,"43,234","46,721","89,955","133,788",67.2
+E07000142,West Lindsey,1,Mainly Rural (rural including hub towns >=80%) ,"67,911","20,842","88,753","89,250",99.4
+E07000143,Breckland,1,Mainly Rural (rural including hub towns >=80%) ,"74,458","56,033","130,491","130,491",100
+E07000144,Broadland,3,Urban with Significant Rural (rural including hub towns 26-49%),"60,433",0,"60,433","124,646",48.5
+E07000145,Great Yarmouth,3,Urban with Significant Rural (rural including hub towns 26-49%),"33,843",0,"33,843","97,277",34.8
+E07000146,King's Lynn and West Norfolk,2,Largely Rural (rural including hub towns 50-79%) ,"86,788","10,884","97,672","147,451",66.2
+E07000147,North Norfolk,1,Mainly Rural (rural including hub towns >=80%) ,"89,036","12,463","101,499","101,499",100
+E07000148,Norwich,4,Urban with City and Town,0,0,0,"132,512",0
+E07000149,South Norfolk,1,Mainly Rural (rural including hub towns >=80%) ,"84,155","23,416","107,571","124,012",86.7
+E07000150,Corby,4,Urban with City and Town,"4,445",0,"4,445","61,255",7.3
+E07000151,Daventry,1,Mainly Rural (rural including hub towns >=80%) ,"49,398","23,879","73,277","77,843",94.1
+E07000152,East Northamptonshire,2,Largely Rural (rural including hub towns 50-79%) ,"50,057",0,"50,057","86,765",57.7
+E07000153,Kettering,4,Urban with City and Town,"19,103",0,"19,103","93,475",20.4
+E07000154,Northampton,4,Urban with City and Town,956,0,956,"212,069",0.5
+E07000155,South Northamptonshire,1,Mainly Rural (rural including hub towns >=80%) ,"71,887","13,018","84,905","85,189",99.7
+E07000156,Wellingborough,3,Urban with Significant Rural (rural including hub towns 26-49%),"24,779",0,"24,779","75,356",32.9
+E07000163,Craven,1,Mainly Rural (rural including hub towns >=80%) ,"33,222","14,623","47,845","55,409",86.3
+E07000164,Hambleton,1,Mainly Rural (rural including hub towns >=80%) ,"72,308","16,832","89,140","89,140",100
+E07000165,Harrogate,3,Urban with Significant Rural (rural including hub towns 26-49%),"51,899","16,363","68,262","157,869",43.2
+E07000166,Richmondshire,1,Mainly Rural (rural including hub towns >=80%) ,"40,161","11,804","51,965","51,965",100
+E07000167,Ryedale,1,Mainly Rural (rural including hub towns >=80%) ,"39,814","11,937","51,751","51,751",100
+E07000168,Scarborough,3,Urban with Significant Rural (rural including hub towns 26-49%),"33,831","13,213","47,044","108,793",43.2
+E07000169,Selby,1,Mainly Rural (rural including hub towns >=80%) ,"56,582","24,859","81,441","83,449",97.6
+E07000170,Ashfield,4,Urban with City and Town,905,0,905,"119,497",0.8
+E07000171,Bassetlaw,2,Largely Rural (rural including hub towns 50-79%) ,"47,588","22,023","69,611","112,863",61.7
+E07000172,Broxtowe,5,Urban with Minor Conurbation,423,0,423,"109,487",0.4
+E07000173,Gedling,5,Urban with Minor Conurbation,"20,717",0,"20,717","113,543",18.2
+E07000174,Mansfield,4,Urban with City and Town,"13,703",0,"13,703","104,466",13.1
+E07000175,Newark and Sherwood,2,Largely Rural (rural including hub towns 50-79%) ,"67,107",0,"67,107","114,817",58.4
+E07000176,Rushcliffe,2,Largely Rural (rural including hub towns 50-79%) ,"62,832",0,"62,832","111,129",56.5
+E07000177,Cherwell,3,Urban with Significant Rural (rural including hub towns 26-49%),"43,542","15,829","59,371","141,868",41.8
+E07000178,Oxford,4,Urban with City and Town,"1,872",0,"1,872","151,906",1.2
+E07000179,South Oxfordshire,1,Mainly Rural (rural including hub towns >=80%) ,"67,005","59,469","126,474","134,257",94.2
+E07000180,Vale of White Horse,2,Largely Rural (rural including hub towns 50-79%) ,"46,866","21,548","68,414","120,988",56.5
+E07000181,West Oxfordshire,1,Mainly Rural (rural including hub towns >=80%) ,"59,312","45,467","104,779","104,779",100
+E07000187,Mendip,1,Mainly Rural (rural including hub towns >=80%) ,"48,453","60,826","109,279","109,279",100
+E07000188,Sedgemoor,2,Largely Rural (rural including hub towns 50-79%) ,"49,987","23,325","73,312","114,588",64
+E07000189,South Somerset,2,Largely Rural (rural including hub towns 50-79%) ,"102,385","13,074","115,459","161,243",71.6
+E07000190,Taunton Deane,3,Urban with Significant Rural (rural including hub towns 26-49%),"31,744","13,822","45,566","110,187",41.4
+E07000191,West Somerset,1,Mainly Rural (rural including hub towns >=80%) ,"22,694","11,981","34,675","34,675",100
+E07000192,Cannock Chase,3,Urban with Significant Rural (rural including hub towns 26-49%),"10,767","24,033","34,800","97,462",35.7
+E07000193,East Staffordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"26,174","13,089","39,263","113,583",34.6
+E07000194,Lichfield,3,Urban with Significant Rural (rural including hub towns 26-49%),"29,714",0,"29,714","100,654",29.5
+E07000195,Newcastle-under-Lyme,4,Urban with City and Town,"25,471",0,"25,471","123,871",20.6
+E07000196,South Staffordshire,3,Urban with Significant Rural (rural including hub towns 26-49%),"42,385",0,"42,385","108,131",39.2
+E07000197,Stafford,3,Urban with Significant Rural (rural including hub towns 26-49%),"40,119","16,385","56,504","130,869",43.2
+E07000198,Staffordshire Moorlands,2,Largely Rural (rural including hub towns 50-79%) ,"31,226","31,307","62,533","97,106",64.4
+E07000199,Tamworth,4,Urban with City and Town,0,0,0,"76,813",0
+E07000200,Babergh,1,Mainly Rural (rural including hub towns >=80%) ,"60,759","22,213","82,972","87,740",94.6
+E07000201,Forest Heath,1,Mainly Rural (rural including hub towns >=80%) ,"27,124","32,624","59,748","59,748",100
+E07000202,Ipswich,4,Urban with City and Town,0,0,0,"133,384",0
+E07000203,Mid Suffolk,1,Mainly Rural (rural including hub towns >=80%) ,"72,772","21,933","94,705","96,731",97.9
+E07000204,St Edmundsbury,2,Largely Rural (rural including hub towns 50-79%) ,"41,155","27,041","68,196","111,008",61.4
+E07000205,Suffolk Coastal,2,Largely Rural (rural including hub towns 50-79%) ,"56,470","29,171","85,641","124,298",68.9
+E07000206,Waveney,3,Urban with Significant Rural (rural including hub towns 26-49%),"30,441","13,868","44,309","115,254",38.4
+E07000207,Elmbridge,6,Urban with Major Conurbation,"2,847",0,"2,847","130,875",2.2
+E07000208,Epsom and Ewell,6,Urban with Major Conurbation,"2,824",0,"2,824","75,102",3.8
+E07000209,Guildford,4,Urban with City and Town,"33,989",885,"34,874","137,183",25.4
+E07000210,Mole Valley,3,Urban with Significant Rural (rural including hub towns 26-49%),"21,965","17,747","39,712","85,375",46.5
+E07000211,Reigate and Banstead,4,Urban with City and Town,"7,025",0,"7,025","137,835",5.1
+E07000212,Runnymede,6,Urban with Major Conurbation,"1,649",0,"1,649","80,510",2
+E07000213,Spelthorne,6,Urban with Major Conurbation,"1,360",0,"1,360","95,598",1.4
+E07000214,Surrey Heath,4,Urban with City and Town,"13,819",0,"13,819","86,144",16
+E07000215,Tandridge,3,Urban with Significant Rural (rural including hub towns 26-49%),"30,691",0,"30,691","82,998",37
+E07000216,Waverley,2,Largely Rural (rural including hub towns 50-79%) ,"33,990","44,544","78,534","121,572",64.6
+E07000217,Woking,6,Urban with Major Conurbation,"1,982",0,"1,982","99,198",2
+E07000218,North Warwickshire,1,Mainly Rural (rural including hub towns >=80%) ,"46,426","10,573","56,999","62,014",91.9
+E07000219,Nuneaton and Bedworth,4,Urban with City and Town,0,0,0,"125,252",0
+E07000220,Rugby,4,Urban with City and Town,"24,260",0,"24,260","100,075",24.2
+E07000221,Stratford-on-Avon,1,Mainly Rural (rural including hub towns >=80%) ,"92,321","27,830","120,151","120,485",99.7
+E07000222,Warwick,4,Urban with City and Town,"17,090",0,"17,090","137,648",12.4
+E07000223,Adur,4,Urban with City and Town,810,0,810,"61,182",1.3
+E07000224,Arun,4,Urban with City and Town,"25,447",0,"25,447","149,518",17
+E07000225,Chichester,2,Largely Rural (rural including hub towns 50-79%) ,"60,312","12,543","72,855","113,794",64
+E07000226,Crawley,4,Urban with City and Town,353,0,353,"106,597",0.3
+E07000227,Horsham,2,Largely Rural (rural including hub towns 50-79%) ,"79,507",0,"79,507","131,301",60.6
+E07000228,Mid Sussex,4,Urban with City and Town,"25,145",0,"25,145","139,860",18
+E07000229,Worthing,4,Urban with City and Town,0,0,0,"104,640",0
+E07000234,Bromsgrove,4,Urban with City and Town,"19,619",0,"19,619","93,637",21
+E07000235,Malvern Hills,2,Largely Rural (rural including hub towns 50-79%) ,"39,106",0,"39,106","74,631",52.4
+E07000236,Redditch,4,Urban with City and Town,"2,592",0,"2,592","84,214",3.1
+E07000237,Worcester,4,Urban with City and Town,129,0,129,"98,768",0.1
+E07000238,Wychavon,1,Mainly Rural (rural including hub towns >=80%) ,"66,795","47,704","114,499","116,944",97.9
+E07000239,Wyre Forest,3,Urban with Significant Rural (rural including hub towns 26-49%),"20,907","20,292","41,199","97,975",42.1
+E08000001,Bolton,6,Urban with Major Conurbation,"2,488",0,"2,488","276,786",0.9
+E08000002,Bury,6,Urban with Major Conurbation,"5,126",0,"5,126","185,060",2.8
+E08000003,Manchester,6,Urban with Major Conurbation,103,0,103,"503,127",0
+E08000004,Oldham,6,Urban with Major Conurbation,"2,657",0,"2,657","224,897",1.2
+E08000005,Rochdale,6,Urban with Major Conurbation,"2,577",0,"2,577","211,699",1.2
+E08000006,Salford,6,Urban with Major Conurbation,284,0,284,"233,933",0.1
+E08000007,Stockport,6,Urban with Major Conurbation,"1,249",0,"1,249","283,275",0.4
+E08000008,Tameside,6,Urban with Major Conurbation,645,0,645,"219,324",0.3
+E08000009,Trafford,6,Urban with Major Conurbation,824,0,824,"226,578",0.4
+E08000010,Wigan,6,Urban with Major Conurbation,"11,556",0,"11,556","317,849",3.6
+E08000011,Knowsley,6,Urban with Major Conurbation,993,0,993,"145,893",0.7
+E08000012,Liverpool,6,Urban with Major Conurbation,0,0,0,"466,415",0
+E08000013,St. Helens,6,Urban with Major Conurbation,"9,729",0,"9,729","175,308",5.5
+E08000014,Sefton,6,Urban with Major Conurbation,"3,979",0,"3,979","273,790",1.5
+E08000015,Wirral,6,Urban with Major Conurbation,"3,538",0,"3,538","319,783",1.1
+E08000016,Barnsley,5,Urban with Minor Conurbation,"24,173",0,"24,173","231,221",10.5
+E08000017,Doncaster,5,Urban with Minor Conurbation,"42,162","17,295","59,457","302,402",19.7
+E08000018,Rotherham,5,Urban with Minor Conurbation,"26,103",0,"26,103","257,280",10.1
+E08000019,Sheffield,5,Urban with Minor Conurbation,"9,690","13,069","22,759","552,698",4.1
+E08000020,Gateshead,6,Urban with Major Conurbation,"16,063",0,"16,063","200,214",8
+E08000021,Newcastle upon Tyne,6,Urban with Major Conurbation,"5,733",0,"5,733","280,177",2
+E08000022,North Tyneside,6,Urban with Major Conurbation,"8,523",0,"8,523","200,801",4.2
+E08000023,South Tyneside,6,Urban with Major Conurbation,601,0,601,"148,127",0.4
+E08000024,Sunderland,6,Urban with Major Conurbation,"1,493",0,"1,493","275,506",0.5
+E08000025,Birmingham,6,Urban with Major Conurbation,553,0,553,"1,073,045",0.1
+E08000026,Coventry,4,Urban with City and Town,565,0,565,"316,960",0.2
+E08000027,Dudley,6,Urban with Major Conurbation,276,0,276,"312,925",0.1
+E08000028,Sandwell,6,Urban with Major Conurbation,0,0,0,"308,063",0
+E08000029,Solihull,6,Urban with Major Conurbation,"20,398",0,"20,398","206,674",9.9
+E08000030,Walsall,6,Urban with Major Conurbation,"3,005",0,"3,005","269,323",1.1
+E08000031,Wolverhampton,6,Urban with Major Conurbation,0,0,0,"249,470",0
+E08000032,Bradford,6,Urban with Major Conurbation,"35,828","14,809","50,637","522,452",9.7
+E08000033,Calderdale,6,Urban with Major Conurbation,"39,226","11,690","50,916","203,826",25
+E08000034,Kirklees,6,Urban with Major Conurbation,"48,918",0,"48,918","422,458",11.6
+E08000035,Leeds,6,Urban with Major Conurbation,"43,035","13,572","56,607","751,485",7.5
+E08000036,Wakefield,4,Urban with City and Town,"57,828","18,899","76,727","325,837",23.5
+E09000001,City of London,6,Urban with Major Conurbation,0,0,0,"7,375",0
+E09000002,Barking and Dagenham,6,Urban with Major Conurbation,0,0,0,"185,911",0
+E09000003,Barnet,6,Urban with Major Conurbation,0,0,0,"356,386",0
+E09000004,Bexley,6,Urban with Major Conurbation,152,0,152,"231,997",0.1
+E09000005,Brent,6,Urban with Major Conurbation,0,0,0,"311,215",0
+E09000006,Bromley,6,Urban with Major Conurbation,"3,455",0,"3,455","309,392",1.1
+E09000007,Camden,6,Urban with Major Conurbation,0,0,0,"220,338",0
+E09000008,Croydon,6,Urban with Major Conurbation,0,0,0,"363,378",0
+E09000009,Ealing,6,Urban with Major Conurbation,0,0,0,"338,449",0
+E09000010,Enfield,6,Urban with Major Conurbation,"1,478",0,"1,478","312,466",0.5
+E09000011,Greenwich,6,Urban with Major Conurbation,0,0,0,"254,557",0
+E09000012,Hackney,6,Urban with Major Conurbation,625,0,625,"246,270",0.3
+E09000013,Hammersmith and Fulham,6,Urban with Major Conurbation,0,0,0,"182,493",0
+E09000014,Haringey,6,Urban with Major Conurbation,0,0,0,"254,926",0
+E09000015,Harrow,6,Urban with Major Conurbation,601,0,601,"239,056",0.3
+E09000016,Havering,6,Urban with Major Conurbation,"1,860",0,"1,860","237,232",0.8
+E09000017,Hillingdon,6,Urban with Major Conurbation,"7,399",0,"7,399","273,936",2.7
+E09000018,Hounslow,6,Urban with Major Conurbation,0,0,0,"253,957",0
+E09000019,Islington,6,Urban with Major Conurbation,0,0,0,"206,125",0
+E09000020,Kensington and Chelsea,6,Urban with Major Conurbation,0,0,0,"158,649",0
+E09000021,Kingston upon Thames,6,Urban with Major Conurbation,424,0,424,"160,060",0.3
+E09000022,Lambeth,6,Urban with Major Conurbation,0,0,0,"303,086",0
+E09000023,Lewisham,6,Urban with Major Conurbation,0,0,0,"275,885",0
+E09000024,Merton,6,Urban with Major Conurbation,0,0,0,"199,693",0
+E09000025,Newham,6,Urban with Major Conurbation,0,0,0,"307,984",0
+E09000026,Redbridge,6,Urban with Major Conurbation,0,0,0,"278,970",0
+E09000027,Richmond upon Thames,6,Urban with Major Conurbation,0,0,0,"186,990",0
+E09000028,Southwark,6,Urban with Major Conurbation,0,0,0,"288,283",0
+E09000029,Sutton,6,Urban with Major Conurbation,0,0,0,"190,146",0
+E09000030,Tower Hamlets,6,Urban with Major Conurbation,0,0,0,"254,096",0
+E09000031,Waltham Forest,6,Urban with Major Conurbation,0,0,0,"258,249",0
+E09000032,Wandsworth,6,Urban with Major Conurbation,0,0,0,"306,995",0
+E41000324,Westminster,6,Urban with Major Conurbation,0,0,0,"219,396",0
+,,,,,,,,
+,,,,1 2011 Census usual resident population,,,,
+,,,,,,,,

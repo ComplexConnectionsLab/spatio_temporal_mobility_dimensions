@@ -1,0 +1,441 @@
+geo_code,Name,Geography,population
+K02000001,UNITED KINGDOM,Country,67081234.00
+K03000001,GREAT BRITAIN,Country,65185724.00
+K04000001,ENGLAND AND WALES,Country,59719724.00
+E92000001,ENGLAND,Country,56550138.00
+E12000001,NORTH EAST,Region,2680763.00
+E06000047,County Durham,Unitary Authority,533149.00
+E06000005,Darlington,Unitary Authority,107402.00
+E06000001,Hartlepool,Unitary Authority,93836.00
+E06000002,Middlesbrough,Unitary Authority,141285.00
+E06000048,Northumberland,Unitary Authority,323820.00
+E06000003,Redcar and Cleveland,Unitary Authority,137228.00
+E06000004,Stockton-on-Tees,Unitary Authority,197419.00
+E11000007,Tyne and Wear (Met County),Metropolitan County,1146624.00
+E08000020,Gateshead,Metropolitan District,201950.00
+E08000021,Newcastle upon Tyne,Metropolitan District,306824.00
+E08000022,North Tyneside,Metropolitan District,208871.00
+E08000023,South Tyneside,Metropolitan District,151133.00
+E08000024,Sunderland,Metropolitan District,277846.00
+E12000002,NORTH WEST,Region,7367456.00
+E06000008,Blackburn with Darwen,Unitary Authority,150030.00
+E06000009,Blackpool,Unitary Authority,138381.00
+E06000049,Cheshire East,Unitary Authority,386667.00
+E06000050,Cheshire West and Chester,Unitary Authority,343823.00
+E06000006,Halton,Unitary Authority,129759.00
+E06000007,Warrington,Unitary Authority,209397.00
+E10000006,Cumbria,County,499781.00
+E07000026,Allerdale,Non-metropolitan District,97831.00
+E07000027,Barrow-in-Furness,Non-metropolitan District,66726.00
+E07000028,Carlisle,Non-metropolitan District,108524.00
+E07000029,Copeland,Non-metropolitan District,68041.00
+E07000030,Eden,Non-metropolitan District,53754.00
+E07000031,South Lakeland,Non-metropolitan District,104905.00
+E11000001,Greater Manchester (Met County),Metropolitan County,2848286.00
+E08000001,Bolton,Metropolitan District,288248.00
+E08000002,Bury,Metropolitan District,190708.00
+E08000003,Manchester,Metropolitan District,555741.00
+E08000004,Oldham,Metropolitan District,237628.00
+E08000005,Rochdale,Metropolitan District,223659.00
+E08000006,Salford,Metropolitan District,262697.00
+E08000007,Stockport,Metropolitan District,294197.00
+E08000008,Tameside,Metropolitan District,227117.00
+E08000009,Trafford,Metropolitan District,237579.00
+E08000010,Wigan,Metropolitan District,330712.00
+E10000017,Lancashire,County,1227076.00
+E07000117,Burnley,Non-metropolitan District,89344.00
+E07000118,Chorley,Non-metropolitan District,118870.00
+E07000119,Fylde,Non-metropolitan District,81211.00
+E07000120,Hyndburn,Non-metropolitan District,81133.00
+E07000121,Lancaster,Non-metropolitan District,148119.00
+E07000122,Pendle,Non-metropolitan District,92145.00
+E07000123,Preston,Non-metropolitan District,144147.00
+E07000124,Ribble Valley,Non-metropolitan District,62026.00
+E07000125,Rossendale,Non-metropolitan District,71432.00
+E07000126,South Ribble,Non-metropolitan District,111086.00
+E07000127,West Lancashire,Non-metropolitan District,114496.00
+E07000128,Wyre,Non-metropolitan District,113067.00
+E11000002,Merseyside (Met County),Metropolitan County,1434256.00
+E08000011,Knowsley,Metropolitan District,152452.00
+E08000012,Liverpool,Metropolitan District,500474.00
+E08000014,Sefton,Metropolitan District,275899.00
+E08000013,St. Helens,Metropolitan District,181095.00
+E08000015,Wirral,Metropolitan District,324336.00
+E12000003,YORKSHIRE AND THE HUMBER,Region,5526350.00
+E06000011,East Riding of Yorkshire,Unitary Authority,343201.00
+E06000010,"Kingston upon Hull, City of",Unitary Authority,259126.00
+E06000012,North East Lincolnshire,Unitary Authority,159364.00
+E06000013,North Lincolnshire,Unitary Authority,172748.00
+E06000014,York,Unitary Authority,211012.00
+E10000023,North Yorkshire,County,620610.00
+E07000163,Craven,Non-metropolitan District,57338.00
+E07000164,Hambleton,Non-metropolitan District,91932.00
+E07000165,Harrogate,Non-metropolitan District,161545.00
+E07000166,Richmondshire,Non-metropolitan District,53732.00
+E07000167,Ryedale,Non-metropolitan District,55629.00
+E07000168,Scarborough,Non-metropolitan District,108737.00
+E07000169,Selby,Non-metropolitan District,91697.00
+E11000003,South Yorkshire (Met County),Metropolitan County,1415054.00
+E08000016,Barnsley,Metropolitan District,248071.00
+E08000017,Doncaster,Metropolitan District,312785.00
+E08000018,Rotherham,Metropolitan District,264984.00
+E08000019,Sheffield,Metropolitan District,589214.00
+E11000006,West Yorkshire (Met County),Metropolitan County,2345235.00
+E08000032,Bradford,Metropolitan District,542128.00
+E08000033,Calderdale,Metropolitan District,211439.00
+E08000034,Kirklees,Metropolitan District,441290.00
+E08000035,Leeds,Metropolitan District,798786.00
+E08000036,Wakefield,Metropolitan District,351592.00
+E12000004,EAST MIDLANDS,Region,4865583.00
+E06000015,Derby,Unitary Authority,256814.00
+E06000016,Leicester,Unitary Authority,354036.00
+E07000154,Northamptonshire,Unitary Authority,757181.00
+E07000152,Northamptonshire,Unitary Authority,757181.00
+E07000155,Northamptonshire,Unitary Authority,757181.00
+E07000150,Northamptonshire,Unitary Authority,757181.00
+E07000151,Northamptonshire,Unitary Authority,757181.00
+E07000156,Northamptonshire,Unitary Authority,757181.00
+E07000153,Northamptonshire,Unitary Authority,757181.00
+E06000018,Nottingham,Unitary Authority,337098.00
+E06000017,Rutland,Unitary Authority,40476.00
+E10000007,Derbyshire,County,807183.00
+E07000032,Amber Valley,Non-metropolitan District,128829.00
+E07000033,Bolsover,Non-metropolitan District,81305.00
+E07000034,Chesterfield,Non-metropolitan District,104930.00
+E07000035,Derbyshire Dales,Non-metropolitan District,72422.00
+E07000036,Erewash,Non-metropolitan District,115332.00
+E07000037,High Peak,Non-metropolitan District,92633.00
+E07000038,North East Derbyshire,Non-metropolitan District,102216.00
+E07000039,South Derbyshire,Non-metropolitan District,109516.00
+E10000018,Leicestershire,County,713085.00
+E07000129,Blaby,Non-metropolitan District,101950.00
+E07000130,Charnwood,Non-metropolitan District,188416.00
+E07000131,Harborough,Non-metropolitan District,95537.00
+E07000132,Hinckley and Bosworth,Non-metropolitan District,113666.00
+E07000133,Melton,Non-metropolitan District,51394.00
+E07000134,North West Leicestershire,Non-metropolitan District,104809.00
+E07000135,Oadby and Wigston,Non-metropolitan District,57313.00
+E10000019,Lincolnshire,County,766333.00
+E07000136,Boston,Non-metropolitan District,70837.00
+E07000137,East Lindsey,Non-metropolitan District,142030.00
+E07000138,Lincoln,Non-metropolitan District,100049.00
+E07000139,North Kesteven,Non-metropolitan District,118149.00
+E07000140,South Holland,Non-metropolitan District,95857.00
+E07000141,South Kesteven,Non-metropolitan District,143225.00
+E07000142,West Lindsey,Non-metropolitan District,96186.00
+E10000024,Nottinghamshire,County,833377.00
+E07000170,Ashfield,Non-metropolitan District,128337.00
+E07000171,Bassetlaw,Non-metropolitan District,118280.00
+E07000172,Broxtowe,Non-metropolitan District,114627.00
+E07000173,Gedling,Non-metropolitan District,118239.00
+E07000174,Mansfield,Non-metropolitan District,109351.00
+E07000175,Newark and Sherwood,Non-metropolitan District,123127.00
+E07000176,Rushcliffe,Non-metropolitan District,121416.00
+E12000005,WEST MIDLANDS,Region,5961929.00
+E06000019,"Herefordshire, County of",Unitary Authority,193615.00
+E06000051,Shropshire,Unitary Authority,325415.00
+E06000021,Stoke-on-Trent,Unitary Authority,256622.00
+E06000020,Telford and Wrekin,Unitary Authority,181322.00
+E10000028,Staffordshire,County,883172.00
+E07000192,Cannock Chase,Non-metropolitan District,101484.00
+E07000193,East Staffordshire,Non-metropolitan District,120923.00
+E07000194,Lichfield,Non-metropolitan District,105637.00
+E07000195,Newcastle-under-Lyme,Non-metropolitan District,129610.00
+E07000196,South Staffordshire,Non-metropolitan District,112369.00
+E07000197,Stafford,Non-metropolitan District,137858.00
+E07000198,Staffordshire Moorlands,Non-metropolitan District,98427.00
+E07000199,Tamworth,Non-metropolitan District,76864.00
+E10000031,Warwickshire,County,583786.00
+E07000218,North Warwickshire,Non-metropolitan District,65452.00
+E07000219,Nuneaton and Bedworth,Non-metropolitan District,130373.00
+E07000220,Rugby,Non-metropolitan District,110650.00
+E07000221,Stratford-on-Avon,Non-metropolitan District,132402.00
+E07000222,Warwick,Non-metropolitan District,144909.00
+E11000005,West Midlands (Met County),Metropolitan County,2939927.00
+E08000025,Birmingham,Metropolitan District,1140525.00
+E08000026,Coventry,Metropolitan District,379387.00
+E08000027,Dudley,Metropolitan District,322363.00
+E08000028,Sandwell,Metropolitan District,329042.00
+E08000029,Solihull,Metropolitan District,217487.00
+E08000030,Walsall,Metropolitan District,286716.00
+E08000031,Wolverhampton,Metropolitan District,264407.00
+E10000034,Worcestershire,County,598070.00
+E07000234,Bromsgrove,Non-metropolitan District,100569.00
+E07000235,Malvern Hills,Non-metropolitan District,79445.00
+E07000236,Redditch,Non-metropolitan District,85568.00
+E07000237,Worcester,Non-metropolitan District,100265.00
+E07000238,Wychavon,Non-metropolitan District,131084.00
+E07000239,Wyre Forest,Non-metropolitan District,101139.00
+E12000006,EAST,Region,6269161.00
+E06000055,Bedford,Unitary Authority,174687.00
+E06000056,Central Bedfordshire,Unitary Authority,294096.00
+E06000032,Luton,Unitary Authority,213528.00
+E06000031,Peterborough,Unitary Authority,202626.00
+E06000033,Southend-on-Sea,Unitary Authority,182773.00
+E06000034,Thurrock,Unitary Authority,175531.00
+E10000003,Cambridgeshire,County,657204.00
+E07000008,Cambridge,Non-metropolitan District,125063.00
+E07000009,East Cambridgeshire,Non-metropolitan District,90172.00
+E07000010,Fenland,Non-metropolitan District,102080.00
+E07000011,Huntingdonshire,Non-metropolitan District,178985.00
+E07000012,South Cambridgeshire,Non-metropolitan District,160904.00
+E10000012,Essex,County,1497759.00
+E07000066,Basildon,Non-metropolitan District,187558.00
+E07000067,Braintree,Non-metropolitan District,153091.00
+E07000068,Brentwood,Non-metropolitan District,77242.00
+E07000069,Castle Point,Non-metropolitan District,90524.00
+E07000070,Chelmsford,Non-metropolitan District,179549.00
+E07000071,Colchester,Non-metropolitan District,197200.00
+E07000072,Epping Forest,Non-metropolitan District,132175.00
+E07000073,Harlow,Non-metropolitan District,87280.00
+E07000074,Maldon,Non-metropolitan District,65401.00
+E07000075,Rochford,Non-metropolitan District,87627.00
+E07000076,Tendring,Non-metropolitan District,147353.00
+E07000077,Uttlesford,Non-metropolitan District,92759.00
+E10000015,Hertfordshire,County,1195672.00
+E07000095,Broxbourne,Non-metropolitan District,97592.00
+E07000096,Dacorum,Non-metropolitan District,155457.00
+E07000097,East Hertfordshire,Non-metropolitan District,151786.00
+E07000098,Hertsmere,Non-metropolitan District,105471.00
+E07000099,North Hertfordshire,Non-metropolitan District,133463.00
+E07000100,St Albans,Non-metropolitan District,149317.00
+E07000101,Stevenage,Non-metropolitan District,88104.00
+E07000102,Three Rivers,Non-metropolitan District,93966.00
+E07000103,Watford,Non-metropolitan District,96623.00
+E07000241,Welwyn Hatfield,Non-metropolitan District,123893.00
+E07000104,Welwyn Hatfield,Non-metropolitan District,123893.00
+E10000020,Norfolk,County,914039.00
+E07000143,Breckland,Non-metropolitan District,141255.00
+E07000144,Broadland,Non-metropolitan District,131931.00
+E07000145,Great Yarmouth,Non-metropolitan District,99198.00
+E07000146,King's Lynn and West Norfolk,Non-metropolitan District,151245.00
+E07000147,North Norfolk,Non-metropolitan District,105167.00
+E07000148,Norwich,Non-metropolitan District,142177.00
+E07000149,South Norfolk,Non-metropolitan District,143066.00
+E10000029,Suffolk,County,761246.00
+E07000200,Babergh,Non-metropolitan District,92735.00
+E07000206,East Suffolk,Non-metropolitan District,250373.00
+E07000205,East Suffolk,Non-metropolitan District,250373.00
+E07000202,Ipswich,Non-metropolitan District,135979.00
+E07000203,Mid Suffolk,Non-metropolitan District,104857.00
+E07000245,West Suffolk,Non-metropolitan District,177302.00
+E07000204,West Suffolk,Non-metropolitan District,177302.00
+E07000201,West Suffolk,Non-metropolitan District,177302.00
+E12000007,LONDON,Region,9002488.00
+E09000007,Camden,London Borough,279516.00
+E41000324,City of London,London Borough,10938.00
+E09000012,Hackney,London Borough,280941.00
+E09000013,Hammersmith and Fulham,London Borough,183544.00
+E09000014,Haringey,London Borough,266357.00
+E09000019,Islington,London Borough,248115.00
+E09000020,Kensington and Chelsea,London Borough,156864.00
+E09000022,Lambeth,London Borough,321813.00
+E09000023,Lewisham,London Borough,305309.00
+E09000025,Newham,London Borough,355266.00
+E09000028,Southwark,London Borough,320017.00
+E09000030,Tower Hamlets,London Borough,331969.00
+E09000032,Wandsworth,London Borough,329735.00
+E09000033,Westminster,London Borough,269848.00
+E09000002,Barking and Dagenham,London Borough,214107.00
+E09000003,Barnet,London Borough,399007.00
+E09000004,Bexley,London Borough,249301.00
+E09000005,Brent,London Borough,327753.00
+E09000006,Bromley,London Borough,332752.00
+E09000008,Croydon,London Borough,388563.00
+E09000009,Ealing,London Borough,340341.00
+E09000010,Enfield,London Borough,333587.00
+E09000011,Greenwich,London Borough,289034.00
+E09000015,Harrow,London Borough,252338.00
+E09000016,Havering,London Borough,260651.00
+E09000017,Hillingdon,London Borough,309014.00
+E09000018,Hounslow,London Borough,271767.00
+E09000021,Kingston upon Thames,London Borough,179142.00
+E09000024,Merton,London Borough,206453.00
+E09000026,Redbridge,London Borough,305658.00
+E09000027,Richmond upon Thames,London Borough,198141.00
+E09000029,Sutton,London Borough,207707.00
+E09000031,Waltham Forest,London Borough,276940.00
+E12000008,SOUTH EAST,Region,9217265.00
+E06000036,Bracknell Forest,Unitary Authority,124165.00
+E06000043,Brighton and Hove,Unitary Authority,291738.00
+E07000006,Buckinghamshire,Unitary Authority,547060.00
+E07000007,Buckinghamshire,Unitary Authority,547060.00
+E07000005,Buckinghamshire,Unitary Authority,547060.00
+E07000004,Buckinghamshire,Unitary Authority,547060.00
+E06000046,Isle of Wight,Unitary Authority,142296.00
+E06000035,Medway,Unitary Authority,279142.00
+E06000042,Milton Keynes,Unitary Authority,270203.00
+E06000044,Portsmouth,Unitary Authority,214692.00
+E06000038,Reading,Unitary Authority,160337.00
+E06000039,Slough,Unitary Authority,149577.00
+E06000045,Southampton,Unitary Authority,252872.00
+E06000037,West Berkshire,Unitary Authority,158465.00
+E06000040,Windsor and Maidenhead,Unitary Authority,151273.00
+E06000041,Wokingham,Unitary Authority,173945.00
+E10000011,East Sussex,County,558852.00
+E07000061,Eastbourne,Non-metropolitan District,103324.00
+E07000062,Hastings,Non-metropolitan District,92554.00
+E07000063,Lewes,Non-metropolitan District,103525.00
+E07000064,Rother,Non-metropolitan District,96716.00
+E07000065,Wealden,Non-metropolitan District,162733.00
+E10000014,Hampshire,County,1389206.00
+E07000084,Basingstoke and Deane,Non-metropolitan District,177760.00
+E07000085,East Hampshire,Non-metropolitan District,123838.00
+E07000086,Eastleigh,Non-metropolitan District,135520.00
+E07000087,Fareham,Non-metropolitan District,116338.00
+E07000088,Gosport,Non-metropolitan District,84679.00
+E07000089,Hart,Non-metropolitan District,97608.00
+E07000090,Havant,Non-metropolitan District,126339.00
+E07000091,New Forest,Non-metropolitan District,179649.00
+E07000092,Rushmoor,Non-metropolitan District,94387.00
+E07000093,Test Valley,Non-metropolitan District,127163.00
+E07000094,Winchester,Non-metropolitan District,125925.00
+E10000016,Kent,County,1589057.00
+E07000105,Ashford,Non-metropolitan District,131018.00
+E07000106,Canterbury,Non-metropolitan District,166762.00
+E07000107,Dartford,Non-metropolitan District,114051.00
+E07000108,Dover,Non-metropolitan District,118514.00
+E07000112,Folkestone and Hythe,Non-metropolitan District,113320.00
+E07000109,Gravesham,Non-metropolitan District,106890.00
+E07000110,Maidstone,Non-metropolitan District,173132.00
+E07000111,Sevenoaks,Non-metropolitan District,121387.00
+E07000113,Swale,Non-metropolitan District,151015.00
+E07000114,Thanet,Non-metropolitan District,141458.00
+E07000115,Tonbridge and Malling,Non-metropolitan District,132571.00
+E07000116,Tunbridge Wells,Non-metropolitan District,118939.00
+E10000025,Oxfordshire,County,696880.00
+E07000177,Cherwell,Non-metropolitan District,151846.00
+E07000178,Oxford,Non-metropolitan District,151584.00
+E07000179,South Oxfordshire,Non-metropolitan District,143782.00
+E07000180,Vale of White Horse,Non-metropolitan District,137910.00
+E07000181,West Oxfordshire,Non-metropolitan District,111758.00
+E10000030,Surrey,County,1199870.00
+E07000207,Elmbridge,Non-metropolitan District,137215.00
+E07000208,Epsom and Ewell,Non-metropolitan District,81003.00
+E07000209,Guildford,Non-metropolitan District,150352.00
+E07000210,Mole Valley,Non-metropolitan District,87547.00
+E07000211,Reigate and Banstead,Non-metropolitan District,149243.00
+E07000212,Runnymede,Non-metropolitan District,90327.00
+E07000213,Spelthorne,Non-metropolitan District,99873.00
+E07000214,Surrey Heath,Non-metropolitan District,89204.00
+E07000215,Tandridge,Non-metropolitan District,88542.00
+E07000216,Waverley,Non-metropolitan District,126556.00
+E07000217,Woking,Non-metropolitan District,100008.00
+E10000032,West Sussex,County,867635.00
+E07000223,Adur,Non-metropolitan District,64187.00
+E07000224,Arun,Non-metropolitan District,161123.00
+E07000225,Chichester,Non-metropolitan District,121508.00
+E07000226,Crawley,Non-metropolitan District,112474.00
+E07000227,Horsham,Non-metropolitan District,145474.00
+E07000228,Mid Sussex,Non-metropolitan District,152142.00
+E07000229,Worthing,Non-metropolitan District,110727.00
+E12000009,SOUTH WEST,Region,5659143.00
+E06000022,Bath and North East Somerset,Unitary Authority,196357.00
+E07000048,"Bournemouth, Christchurch and Poole",Unitary Authority,396989.00
+E06000029,"Bournemouth, Christchurch and Poole",Unitary Authority,396989.00
+E06000028,"Bournemouth, Christchurch and Poole",Unitary Authority,396989.00 
+E06000023,"Bristol, City of",Unitary Authority,465866.00
+E41000052,Cornwall,Unitary Authority,573299.00
+E07000050,Dorset,Unitary Authority,379791.00 
+E07000052,Dorset,Unitary Authority,379791.00
+E07000049,Dorset,Unitary Authority,379791.00 
+E07000051,Dorset,Unitary Authority,379791.00 
+E07000053,Dorset,Unitary Authority,379791.00 
+E06000053,Isles of Scilly,Unitary Authority,2226.00
+E06000024,North Somerset,Unitary Authority,215574.00
+E06000026,Plymouth,Unitary Authority,262839.00
+E06000025,South Gloucestershire,Unitary Authority,287816.00
+E06000030,Swindon,Unitary Authority,222881.00
+E06000027,Torbay,Unitary Authority,136218.00
+E06000054,Wiltshire,Unitary Authority,504070.00
+E10000008,Devon,County,810716.00
+E07000040,East Devon,Non-metropolitan District,148080.00
+E07000041,Exeter,Non-metropolitan District,133333.00
+E07000042,Mid Devon,Non-metropolitan District,83290.00
+E07000043,North Devon,Non-metropolitan District,98170.00
+E07000044,South Hams,Non-metropolitan District,87946.00
+E07000045,Teignbridge,Non-metropolitan District,135039.00
+E07000046,Torridge,Non-metropolitan District,68719.00
+E07000047,West Devon,Non-metropolitan District,56139.00
+E10000013,Gloucestershire,County,640650.00
+E07000078,Cheltenham,Non-metropolitan District,116043.00
+E07000079,Cotswold,Non-metropolitan District,90264.00
+E07000080,Forest of Dean,Non-metropolitan District,87107.00
+E07000081,Gloucester,Non-metropolitan District,129709.00
+E07000082,Stroud,Non-metropolitan District,120903.00
+E07000083,Tewkesbury,Non-metropolitan District,96624.00
+E10000027,Somerset,County,563851.00
+E07000187,Mendip,Non-metropolitan District,116288.00
+E07000188,Sedgemoor,Non-metropolitan District,123446.00
+E07000246,Somerset West and Taunton,Non-metropolitan District,155421.00
+E07000190,Somerset West and Taunton,Non-metropolitan District,155421.00
+E07000191,Somerset West and Taunton,Non-metropolitan District,155421.00
+E07000189,South Somerset,Non-metropolitan District,168696.00
+W92000004,WALES,Country,3169586.00
+W06000001,Isle of Anglesey,Unitary Authority,70440.00
+W06000002,Gwynedd,Unitary Authority,125171.00
+W06000003,Conwy,Unitary Authority,118184.00
+W06000004,Denbighshire,Unitary Authority,96664.00
+W06000005,Flintshire,Unitary Authority,156847.00
+W06000006,Wrexham,Unitary Authority,136055.00
+W06000023,Powys,Unitary Authority,133030.00
+W06000008,Ceredigion,Unitary Authority,72895.00
+W06000009,Pembrokeshire,Unitary Authority,126751.00
+W06000010,Carmarthenshire,Unitary Authority,190073.00
+W06000011,Swansea,Unitary Authority,246563.00
+W06000012,Neath Port Talbot,Unitary Authority,144386.00
+W06000013,Bridgend,Unitary Authority,147539.00
+W06000014,Vale of Glamorgan,Unitary Authority,135295.00
+W06000015,Cardiff,Unitary Authority,369202.00
+W06000016,Rhondda Cynon Taf,Unitary Authority,241873.00
+W06000024,Merthyr Tydfil,Unitary Authority,60424.00
+W06000018,Caerphilly,Unitary Authority,181731.00
+W06000019,Blaenau Gwent,Unitary Authority,70020.00
+W06000020,Torfaen,Unitary Authority,94832.00
+W06000021,Monmouthshire,Unitary Authority,95164.00
+W06000022,Newport,Unitary Authority,156447.00
+S92000003,SCOTLAND,Country,5466000.00
+S12000033,Aberdeen City,Council Area,229060.00
+S12000034,Aberdeenshire,Council Area,260780.00
+S12000041,Angus,Council Area,115820.00
+S12000035,Argyll and Bute,Council Area,85430.00
+S12000036,City of Edinburgh,Council Area,527620.00
+S12000005,Clackmannanshire,Council Area,51290.00
+S12000006,Dumfries and Galloway,Council Area,148290.00
+S12000042,Dundee City,Council Area,148820.00
+S12000008,East Ayrshire,Council Area,121600.00
+S12000045,East Dunbartonshire,Council Area,108750.00
+S12000010,East Lothian,Council Area,107900.00
+S12000011,East Renfrewshire,Council Area,96060.00
+S12000014,Falkirk,Council Area,160560.00
+S12000047,Fife,Council Area,374130.00
+S12000049,Glasgow City,Council Area,635640.00
+S12000017,Highland,Council Area,235430.00
+S12000018,Inverclyde,Council Area,77060.00
+S12000019,Midlothian,Council Area,93150.00
+S12000020,Moray,Council Area,95710.00
+S12000013,Na h-Eileanan Siar,Council Area,26500.00
+S12000021,North Ayrshire,Council Area,134250.00
+S12000050,North Lanarkshire,Council Area,341140.00
+S12000023,Orkney Islands,Council Area,22400.00
+S12000048,Perth and Kinross,Council Area,151910.00
+S12000038,Renfrewshire,Council Area,179390.00
+S12000026,Scottish Borders,Council Area,115240.00
+S12000027,Shetland Islands,Council Area,22870.00
+S12000028,South Ayrshire,Council Area,112140.00
+S12000029,South Lanarkshire,Council Area,320820.00
+S12000030,Stirling,Council Area,94080.00
+S12000039,West Dunbartonshire,Council Area,88340.00
+S12000040,West Lothian,Council Area,183820.00
+N92000002,NORTHERN IRELAND,Country,1895510.00
+N09000001,Antrim and Newtownabbey,Local Government District,143756.00
+N09000011,Ards and North Down,Local Government District,162056.00
+N09000002,"Armagh City, Banbridge and Craigavon",Local Government District,217232.00
+N09000003,Belfast,Local Government District,342560.00
+N09000004,Causeway Coast and Glens,Local Government District,144943.00
+N09000005,Derry City and Strabane,Local Government District,151109.00
+N09000006,Fermanagh and Omagh,Local Government District,117337.00
+N09000007,Lisburn and Castlereagh,Local Government District,146452.00
+N09000008,Mid and East Antrim,Local Government District,139443.00
+N09000009,Mid Ulster,Local Government District,148953.00
+N09000010,"Newry, Mourne and Down",Local Government District,181669.00
