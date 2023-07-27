@@ -18,8 +18,8 @@ This is a repository to accompany 'COVID-19 is linked to changes in the time-spa
 
 More information is available at:  
 - Nature Human Behaviour paper: Santana, C., Botta, F., Barbosa, H. et al. [COVID-19 is linked to changes in the time–space dimension of human mobility](https://www.nature.com/articles/s41562-023-01660-3) Nat Hum Behav (2023). [DOI:s41562-023-01660-3](https://doi.org/10.1038/s41562-023-01660-3)
-- Project Website: [](https://www.riccardodiclemente.com/projects/covid_space_time.html)
-- Reports: [Time-space Dimensions of Human Mobility: Changes During the Covid-19 Pandemic](https://covid19-uk-mobility.github.io/)
+- Project Website: [Time-space Dimensions of Human Mobility: Changes During the Covid-19 Pandemic](https://www.riccardodiclemente.com/projects/covid_space_time.html)
+- Reports: [Covid-19 UK Mobility](https://covid19-uk-mobility.github.io/)
 - Arxiv Paper:  [arXiv:2201.06527v1](https://doi.org/10.48550/arXiv.2201.06527)
 
 
